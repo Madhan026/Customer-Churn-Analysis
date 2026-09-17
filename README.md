@@ -478,9 +478,9 @@ The Overview page presents:
 
 Add your final Power BI Overview screenshot here:
 
-```markdown
+
 ![Power BI Dashboard Overview](./Screenshots/dashboard_overview.png)
-```
+
 
 ---
 
@@ -499,9 +499,9 @@ It includes:
 
 ### Dashboard Screenshot
 
-```markdown
+
 ![Power BI Prediction Insights](./Screenshots/prediction_insights.png)
-```
+
 
 ---
 
@@ -542,21 +542,21 @@ Then add them to this README.
 
 ### Model Evaluation
 
-```markdown
+
 ![Model Evaluation](./Screenshots/model_evaluation.png)
-```
+
 
 ### MLflow
 
-```markdown
+
 ![MLflow Experiment](./Screenshots/mlflow_experiment.png)
-```
+
 
 ### LIME Explanation
 
-```markdown
+
 ![LIME Explanation](./Screenshots/lime_explanation.png)
-```
+
 
 ---
 
