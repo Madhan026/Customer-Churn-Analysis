@@ -547,9 +547,9 @@ The Overview page presents the overall customer and churn analysis, including:
 
 Add the final screenshot:
 
-```markdown
+
 ![Power BI Dashboard Overview](./Screenshots/dashboard_overview.png)
-```
+
 
 ---
 
@@ -569,9 +569,9 @@ It includes:
 
 ### Screenshot
 
-```markdown
+
 ![Power BI Prediction Insights](./Screenshots/prediction_insights.png)
-```
+
 
 ---
 
@@ -599,9 +599,9 @@ High Risk Customers : 248
 
 ### Screenshot
 
-```markdown
+
 ![Power BI Retention Strategy](./Screenshots/retention_strategy.png)
-```
+
 
 ---
 
@@ -639,21 +639,21 @@ Screenshots/
 
 ### Model Evaluation
 
-```markdown
+
 ![Model Evaluation](./Screenshots/model_evaluation.png)
-```
+
 
 ### MLflow
 
-```markdown
+
 ![MLflow Experiment](./Screenshots/mlflow_experiment.png)
-```
+
 
 ### LIME Explanation
 
-```markdown
+
 ![LIME Explanation](./Screenshots/lime_explanation.png)
-```
+
 
 ---
 
