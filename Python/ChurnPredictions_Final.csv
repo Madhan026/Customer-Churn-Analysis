@@ -1,0 +1,1410 @@
+CustomerID,MonthlyCharges,Contract_One year,Contract_Two year,ChurnProbability,PredictedChurn,Contract,RiskCategory,RetentionStrategy
+4376-KFVRS,114.0500030517578,0,1,0.023013545199799618,0,Two year,Low Risk,Standard retention monitoring
+2754-SDJRD,100.1500015258789,0,0,0.6292417282735311,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9917-KWRBE,78.3499984741211,1,0,0.023656749946730896,0,One year,Low Risk,Standard retention monitoring
+0365-GXEZS,78.19999694824219,0,0,0.5030806371478753,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9385-NXKDA,82.6500015258789,0,1,0.009767846248368718,0,Two year,Low Risk,Standard retention monitoring
+4686-UXDML,99.8499984741211,0,0,0.6460619221886961,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2227-JRSJX,99.1500015258789,0,0,0.7307875673603635,1,Month-to-month,High Risk,Offer contract upgrade discount
+4830-FAXFM,24.100000381469727,0,0,0.11337686476151144,0,Month-to-month,Low Risk,Standard retention monitoring
+1830-IPXVJ,19.75,0,1,0.0018479861991748836,0,Two year,Low Risk,Standard retention monitoring
+4690-LLKUA,45.04999923706055,0,0,0.5420721985185668,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5804-HYIEZ,106.0500030517578,0,0,0.3417568344113583,0,Month-to-month,Low Risk,Standard retention monitoring
+2388-LAESQ,114.8499984741211,0,1,0.08741504888077278,0,Two year,Low Risk,Standard retention monitoring
+5533-RJFTJ,30.200000762939453,0,0,0.3691719055093058,0,Month-to-month,Low Risk,Standard retention monitoring
+4706-AXVKM,84.80000305175781,0,0,0.7108733330616678,1,Month-to-month,High Risk,Offer contract upgrade discount
+0997-YTLNY,48.79999923706055,0,0,0.20597898810002163,0,Month-to-month,Low Risk,Standard retention monitoring
+7971-HLVXI,84.5,0,1,0.06599088636693692,0,Two year,Low Risk,Standard retention monitoring
+7337-CINUD,19.5,0,1,0.08051460300850635,0,Two year,Low Risk,Standard retention monitoring
+1379-FRVEB,91.0,0,0,0.655965458354496,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4753-PADAS,105.6999969482422,1,0,0.42660261527423265,0,One year,Medium Risk,Offer targeted discount
+5701-GUXDC,35.400001525878906,1,0,0.06502875852453405,0,One year,Low Risk,Standard retention monitoring
+7235-NXZCP,74.8499984741211,0,0,0.7482905858636854,1,Month-to-month,High Risk,Offer contract upgrade discount
+0668-OGMHD,28.5,0,0,0.329725943855875,0,Month-to-month,Low Risk,Standard retention monitoring
+2812-REYAT,20.049999237060547,1,0,0.03484399619646085,0,One year,Low Risk,Standard retention monitoring
+8779-YIQQA,19.799999237060547,1,0,0.03193225522302755,0,One year,Low Risk,Standard retention monitoring
+9701-CDXHR,69.1500015258789,0,0,0.41895297463269077,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7130-CTCUS,54.54999923706055,0,0,0.295121667102853,0,Month-to-month,Low Risk,Standard retention monitoring
+1894-IGFSG,89.25,0,0,0.8269714555035764,1,Month-to-month,High Risk,Offer contract upgrade discount
+0871-URUWO,102.25,0,0,0.7050700810581302,1,Month-to-month,High Risk,Offer contract upgrade discount
+0057-QBUQH,25.100000381469727,0,1,0.01230756232396909,0,Two year,Low Risk,Standard retention monitoring
+9611-CTWIH,89.44999694824219,0,0,0.8731650722139287,1,Month-to-month,High Risk,Offer contract upgrade discount
+8058-DMYRU,90.05000305175781,0,0,0.5727240246571856,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5351-QESIO,24.200000762939453,0,0,0.6103224741701699,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4302-ZYFEL,20.549999237060547,1,0,0.0025399445519202896,0,One year,Low Risk,Standard retention monitoring
+6134-KWTBV,23.399999618530277,0,1,0.012118462087545134,0,Two year,Low Risk,Standard retention monitoring
+2034-GDRCN,90.4000015258789,0,0,0.8818913753479244,1,Month-to-month,High Risk,Offer contract upgrade discount
+9544-PYPSJ,96.0999984741211,0,0,0.21494608440804322,0,Month-to-month,Low Risk,Standard retention monitoring
+4208-UFFGW,44.95000076293945,0,0,0.5787810524385645,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9537-JALFH,19.899999618530277,0,1,0.003599382042779942,0,Two year,Low Risk,Standard retention monitoring
+4415-IJZTP,74.5,0,0,0.8499935140296553,1,Month-to-month,High Risk,Offer contract upgrade discount
+4701-MLJPN,55.25,0,0,0.2755371362471257,0,Month-to-month,Low Risk,Standard retention monitoring
+7515-LODFU,20.299999237060547,0,1,0.0021394913295737124,0,Two year,Low Risk,Standard retention monitoring
+4927-WWOOZ,91.4499969482422,0,0,0.7884843531822766,1,Month-to-month,High Risk,Offer contract upgrade discount
+4067-HLYQI,70.4000015258789,0,0,0.8233029692190399,1,Month-to-month,High Risk,Offer contract upgrade discount
+6184-DYUOB,19.600000381469727,0,0,0.30303732341649237,0,Month-to-month,Low Risk,Standard retention monitoring
+9209-NWPGU,65.4000015258789,1,0,0.05975014490095443,0,One year,Low Risk,Standard retention monitoring
+3523-BRGUW,110.0999984741211,0,0,0.3978365787252441,0,Month-to-month,Low Risk,Standard retention monitoring
+3199-XGZCY,75.25,0,0,0.8303594519678688,1,Month-to-month,High Risk,Offer contract upgrade discount
+4226-KKDON,66.6500015258789,0,0,0.4452657184463188,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1085-LDWAM,20.350000381469727,1,0,0.0025657382118555233,0,One year,Low Risk,Standard retention monitoring
+6825-UYPFK,75.5999984741211,0,0,0.8610771127669025,1,Month-to-month,High Risk,Offer contract upgrade discount
+1767-CJKBA,25.100000381469727,0,1,0.004470097483739928,0,Two year,Low Risk,Standard retention monitoring
+7181-BQYBV,102.4499969482422,0,0,0.48373136028541136,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0178-CIIKR,19.950000762939453,0,0,0.37003707390991214,0,Month-to-month,Low Risk,Standard retention monitoring
+4256-ZWTZI,51.0,0,0,0.33921079271304644,0,Month-to-month,Low Risk,Standard retention monitoring
+9537-VHDTA,51.20000076293945,0,0,0.3342090447385816,0,Month-to-month,Low Risk,Standard retention monitoring
+2754-XBHTB,77.6500015258789,0,0,0.8930029267846135,1,Month-to-month,High Risk,Offer contract upgrade discount
+5975-BAICR,63.70000076293945,1,0,0.027472023305234367,0,One year,Low Risk,Standard retention monitoring
+3301-VKTGC,85.5,1,0,0.09588161248390001,0,One year,Low Risk,Standard retention monitoring
+2877-VDUER,40.900001525878906,1,0,0.05445800697784018,0,One year,Low Risk,Standard retention monitoring
+7717-BICXI,20.549999237060547,0,1,0.0022682075905661307,0,Two year,Low Risk,Standard retention monitoring
+0562-FGDCR,74.55000305175781,0,1,0.003310476926327781,0,Two year,Low Risk,Standard retention monitoring
+3705-PSNGL,20.399999618530277,1,0,0.03495433857151129,0,One year,Low Risk,Standard retention monitoring
+0048-LUMLS,110.5,1,0,0.36088036944163016,0,One year,Low Risk,Standard retention monitoring
+6497-TILVL,50.70000076293945,0,0,0.22448140518168222,0,Month-to-month,Low Risk,Standard retention monitoring
+2108-YKQTY,50.70000076293945,0,0,0.446686388065119,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3658-KIBGF,54.900001525878906,0,0,0.41619977718541645,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0666-UXTJO,74.44999694824219,0,0,0.7684635698628398,1,Month-to-month,High Risk,Offer contract upgrade discount
+7410-KTVFV,49.54999923706055,0,0,0.344690816007386,0,Month-to-month,Low Risk,Standard retention monitoring
+9033-EOXWV,74.05000305175781,1,0,0.22736914713483378,0,One year,Low Risk,Standard retention monitoring
+8821-XNHVZ,80.05000305175781,0,0,0.6488402343833576,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8224-KDLKN,25.0,0,1,0.003632722242029918,0,Two year,Low Risk,Standard retention monitoring
+4825-FUREZ,20.25,0,1,0.014511988374025061,0,Two year,Low Risk,Standard retention monitoring
+7534-BFESC,76.0999984741211,0,0,0.7259692267440278,1,Month-to-month,High Risk,Offer contract upgrade discount
+9138-EFSMO,78.94999694824219,1,0,0.48855018898841374,0,One year,Medium Risk,Send customer engagement campaign
+4227-OJHAL,73.0,1,0,0.008953337297725345,0,One year,Low Risk,Standard retention monitoring
+7279-NMVJC,19.899999618530277,1,0,0.20557687638513175,0,One year,Low Risk,Standard retention monitoring
+8591-TKMZH,111.0999984741211,0,1,0.034001385465040515,0,Two year,Low Risk,Standard retention monitoring
+9283-LZQOH,74.4000015258789,0,0,0.4969917448081614,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3594-IVHJZ,20.450000762939453,0,0,0.3942885256070662,0,Month-to-month,Low Risk,Standard retention monitoring
+1945-XISKS,19.649999618530277,0,1,0.002536453701216278,0,Two year,Low Risk,Standard retention monitoring
+4359-INNWN,20.049999237060547,1,0,0.0775872572250822,0,One year,Low Risk,Standard retention monitoring
+7649-SIJJF,80.0999984741211,0,1,0.005405560247944642,0,Two year,Low Risk,Standard retention monitoring
+9254-RBFON,98.5999984741211,1,0,0.36386092429409156,0,One year,Low Risk,Standard retention monitoring
+0970-ETWGE,89.55000305175781,0,0,0.8802344094079165,1,Month-to-month,High Risk,Offer contract upgrade discount
+7762-ONLJY,19.700000762939453,1,0,0.06853679919608875,0,One year,Low Risk,Standard retention monitoring
+6710-HSJRD,114.0999984741211,0,0,0.5583128199728493,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8873-GLDMH,73.8499984741211,0,0,0.7557923088209869,1,Month-to-month,High Risk,Offer contract upgrade discount
+9907-SWKKF,25.049999237060547,0,0,0.6886908253391937,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4658-HCOHW,102.8000030517578,0,0,0.3342856188240838,0,Month-to-month,Low Risk,Standard retention monitoring
+9330-VOFSZ,110.8000030517578,0,1,0.0774649072605125,0,Two year,Low Risk,Standard retention monitoring
+2860-RANUS,85.80000305175781,0,0,0.6922490828968426,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6234-PFPXL,95.9000015258789,0,0,0.3294644202482044,0,Month-to-month,Low Risk,Standard retention monitoring
+7205-BAIAD,20.600000381469727,0,1,0.03957641466501955,0,Two year,Low Risk,Standard retention monitoring
+3858-VOBET,74.94999694824219,0,0,0.7705681333288604,1,Month-to-month,High Risk,Offer contract upgrade discount
+5103-MHMHY,45.95000076293945,0,0,0.5297145865166891,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6119-SPUDB,38.25,0,1,0.010073423101295687,0,Two year,Low Risk,Standard retention monitoring
+9389-ACWBI,69.94999694824219,0,0,0.551789543289508,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3454-JFUBC,20.0,0,1,0.0023335202084346996,0,Two year,Low Risk,Standard retention monitoring
+1768-ZAIFU,25.200000762939453,0,0,0.774742520881689,1,Month-to-month,High Risk,Offer contract upgrade discount
+7017-VFULY,20.100000381469727,0,0,0.554550841818698,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9221-OTIVJ,104.8499984741211,0,0,0.7024140089219438,1,Month-to-month,High Risk,Offer contract upgrade discount
+2482-CZGBB,70.0,0,0,0.8238409161579532,1,Month-to-month,High Risk,Offer contract upgrade discount
+7018-WBJNK,78.30000305175781,0,0,0.5977739941145964,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3331-HQDTW,109.8000030517578,0,0,0.4089019834436447,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4695-VADHF,57.45000076293945,0,0,0.3361457245155388,0,Month-to-month,Low Risk,Standard retention monitoring
+4086-WITJG,19.700000762939453,0,1,0.0009777680960704673,0,Two year,Low Risk,Standard retention monitoring
+6297-NOOPG,110.5,0,1,0.12074985610249055,0,Two year,Low Risk,Standard retention monitoring
+8777-PVYGU,64.30000305175781,1,0,0.035889983319940845,0,One year,Low Risk,Standard retention monitoring
+4378-MYPGO,105.25,0,1,0.09411258905871919,0,Two year,Low Risk,Standard retention monitoring
+9313-CDOGY,19.600000381469727,0,0,0.05606987785139036,0,Month-to-month,Low Risk,Standard retention monitoring
+4121-AGSIN,24.5,1,0,0.0049985607109669416,0,One year,Low Risk,Standard retention monitoring
+0432-CAJZV,90.6999969482422,0,0,0.8263580589627628,1,Month-to-month,High Risk,Offer contract upgrade discount
+9097-ZUBYC,48.79999923706055,0,0,0.5077010049383505,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9638-JIQYA,24.899999618530277,0,0,0.6968115748119666,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1024-GUALD,24.799999237060547,0,0,0.7590918205416353,1,Month-to-month,High Risk,Offer contract upgrade discount
+8024-XNAFQ,107.4000015258789,0,1,0.09219188883844576,0,Two year,Low Risk,Standard retention monitoring
+7587-RZNME,43.29999923706055,0,0,0.7009285506727964,1,Month-to-month,High Risk,Offer contract upgrade discount
+1346-UFHAX,80.0,0,0,0.5249399236835675,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6374-NTQLP,104.0999984741211,0,1,0.018806541373525325,0,Two year,Low Risk,Standard retention monitoring
+6625-FLENO,20.75,0,1,0.004372554729033414,0,Two year,Low Risk,Standard retention monitoring
+7375-WMVMT,95.5,0,1,0.030156507634498845,0,Two year,Low Risk,Standard retention monitoring
+6910-HADCM,76.3499984741211,0,0,0.8209975734524234,1,Month-to-month,High Risk,Offer contract upgrade discount
+7401-JIXNM,91.3000030517578,0,1,0.0065903605452661326,0,Two year,Low Risk,Standard retention monitoring
+7338-ERIVA,45.04999923706055,1,0,0.07706318883264458,0,One year,Low Risk,Standard retention monitoring
+5376-DEQCP,70.5999984741211,0,0,0.857406208321738,1,Month-to-month,High Risk,Offer contract upgrade discount
+0909-SELIE,80.80000305175781,0,1,0.019190075202425407,0,Two year,Low Risk,Standard retention monitoring
+5419-KLXBN,89.1500015258789,0,0,0.5775772112536128,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0365-TRTPY,91.1999969482422,0,0,0.5345453507291098,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6712-OAWRH,91.25,0,0,0.8078243159505625,1,Month-to-month,High Risk,Offer contract upgrade discount
+2428-ZMCTB,19.75,0,0,0.2575773748324774,0,Month-to-month,Low Risk,Standard retention monitoring
+1963-VAUKV,20.399999618530277,0,0,0.4011215079901274,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9381-NDKME,40.650001525878906,0,0,0.3259581222456315,0,Month-to-month,Low Risk,Standard retention monitoring
+3729-OWRVL,110.3499984741211,0,1,0.10437434305167652,0,Two year,Low Risk,Standard retention monitoring
+0895-LMRSF,64.9000015258789,1,0,0.5381368118359043,1,One year,Medium Risk,Send customer engagement campaign
+2676-SSLTO,66.1500015258789,0,1,0.10803034973196529,0,Two year,Low Risk,Standard retention monitoring
+8495-PRWFH,55.650001525878906,0,0,0.30167187489223013,0,Month-to-month,Low Risk,Standard retention monitoring
+9030-QGZNL,20.850000381469727,0,1,0.07477430885226727,0,Two year,Low Risk,Standard retention monitoring
+9972-NKTFD,54.650001525878906,0,0,0.35167358302368523,0,Month-to-month,Low Risk,Standard retention monitoring
+7998-WNZEM,80.5999984741211,0,1,0.020633980004199245,0,Two year,Low Risk,Standard retention monitoring
+0979-PHULV,99.4499969482422,0,0,0.38889981546241825,0,Month-to-month,Low Risk,Standard retention monitoring
+6445-TNRXS,114.6999969482422,0,1,0.0666380008170071,0,Two year,Low Risk,Standard retention monitoring
+6304-IJFSQ,20.049999237060547,0,0,0.3883742340652644,0,Month-to-month,Low Risk,Standard retention monitoring
+3966-HRMZA,75.05000305175781,0,0,0.6759719741162827,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5498-IBWPI,49.400001525878906,1,0,0.010062278355603527,0,One year,Low Risk,Standard retention monitoring
+6823-SIDFQ,18.25,1,0,0.0406784850004991,0,One year,Low Risk,Standard retention monitoring
+2323-ARSVR,111.0500030517578,0,1,0.05669525005882728,0,Two year,Low Risk,Standard retention monitoring
+5468-BPMMO,19.600000381469727,0,0,0.06154218107125993,0,Month-to-month,Low Risk,Standard retention monitoring
+0486-HECZI,96.75,0,0,0.3814399075024443,0,Month-to-month,Low Risk,Standard retention monitoring
+2178-PMGCJ,69.69999694824219,0,0,0.6758853294705419,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4660-IRIBM,87.9000015258789,0,0,0.27459175941468705,0,Month-to-month,Low Risk,Standard retention monitoring
+9674-EHPPG,40.400001525878906,0,1,0.007526251430709438,0,Two year,Low Risk,Standard retention monitoring
+5606-AMZBO,78.1500015258789,0,0,0.4385905033769484,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0665-XHDJU,99.4000015258789,0,1,0.1943239526058733,0,Two year,Low Risk,Standard retention monitoring
+5402-HTOTQ,55.29999923706055,0,0,0.4909947228941479,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8258-GSTJK,77.0,0,0,0.8316797571645742,1,Month-to-month,High Risk,Offer contract upgrade discount
+3787-TRIAL,26.049999237060547,0,0,0.4274866014081964,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6175-IRFIT,78.75,0,0,0.79523513792327,1,Month-to-month,High Risk,Offer contract upgrade discount
+6317-YPKDH,29.950000762939453,0,0,0.8120178468327321,1,Month-to-month,High Risk,Offer contract upgrade discount
+5692-FPTAH,45.400001525878906,0,0,0.6547489977709836,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5373-SFODM,85.25,0,0,0.5485793193132215,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0868-VJRDR,104.0500030517578,0,1,0.03327956969433898,0,Two year,Low Risk,Standard retention monitoring
+4079-VTGLK,74.8499984741211,0,1,0.11088576783149541,0,Two year,Low Risk,Standard retention monitoring
+1166-PQLGG,19.549999237060547,0,1,0.00309546258775423,0,Two year,Low Risk,Standard retention monitoring
+5296-BFCYD,20.100000381469727,0,1,0.004720809481453932,0,Two year,Low Risk,Standard retention monitoring
+6568-POCUI,95.1999969482422,0,1,0.1275125487523159,0,Two year,Low Risk,Standard retention monitoring
+2839-RFSQE,20.649999618530277,0,0,0.39124629611955986,0,Month-to-month,Low Risk,Standard retention monitoring
+2188-SXWVT,55.0,1,0,0.04919765367609562,0,One year,Low Risk,Standard retention monitoring
+8849-GYOKR,106.5500030517578,1,0,0.37429600284207176,0,One year,Low Risk,Standard retention monitoring
+3623-FQBOX,19.950000762939453,0,0,0.18898924242634904,0,Month-to-month,Low Risk,Standard retention monitoring
+2649-HWLYB,76.1500015258789,0,1,0.026515790304873898,0,Two year,Low Risk,Standard retention monitoring
+0599-XNYDO,69.80000305175781,0,0,0.830252573569991,1,Month-to-month,High Risk,Offer contract upgrade discount
+2514-GINMM,79.5,0,0,0.8615830596550235,1,Month-to-month,High Risk,Offer contract upgrade discount
+8401-EMUWF,69.4000015258789,0,0,0.17142859827016618,0,Month-to-month,Low Risk,Standard retention monitoring
+5766-ZJYBB,19.399999618530277,0,0,0.3880180020914068,0,Month-to-month,Low Risk,Standard retention monitoring
+2604-IJPDU,96.5500030517578,0,0,0.3356541855690231,0,Month-to-month,Low Risk,Standard retention monitoring
+3716-UVSPD,70.19999694824219,0,0,0.8139127979701907,1,Month-to-month,High Risk,Offer contract upgrade discount
+6370-ZVHDV,25.299999237060547,0,1,0.01132060655701915,0,Two year,Low Risk,Standard retention monitoring
+3027-YNWZU,25.0,0,1,0.0030202501057893325,0,Two year,Low Risk,Standard retention monitoring
+4526-ZJJTM,88.4000015258789,0,0,0.6419785898060486,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0440-QEXBZ,50.150001525878906,0,0,0.26787399631502073,0,Month-to-month,Low Risk,Standard retention monitoring
+0330-IVZHA,69.94999694824219,0,0,0.7886956734801731,1,Month-to-month,High Risk,Offer contract upgrade discount
+9758-MFWGD,29.899999618530277,1,0,0.051382482400697295,0,One year,Low Risk,Standard retention monitoring
+4229-CZMLL,74.9000015258789,0,0,0.8386333906920468,1,Month-to-month,High Risk,Offer contract upgrade discount
+0742-MOABM,50.04999923706055,0,0,0.3750438614553516,0,Month-to-month,Low Risk,Standard retention monitoring
+4277-BWBML,19.950000762939453,0,1,0.002937814095009932,0,Two year,Low Risk,Standard retention monitoring
+5136-GFPMB,89.4000015258789,0,0,0.5299074199331568,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7520-HQWJU,67.44999694824219,0,0,0.07148914423763568,0,Month-to-month,Low Risk,Standard retention monitoring
+4501-VCPFK,75.75,0,0,0.8277642249499731,1,Month-to-month,High Risk,Offer contract upgrade discount
+0297-RBCSG,65.3499984741211,1,0,0.26161120643641883,0,One year,Low Risk,Standard retention monitoring
+6013-BHCAW,81.0,0,1,0.05045942160032012,0,Two year,Low Risk,Standard retention monitoring
+4402-FTBXC,89.80000305175781,0,0,0.3314563437890116,0,Month-to-month,Low Risk,Standard retention monitoring
+4807-IZYOZ,84.94999694824219,0,1,0.016592735427206674,0,Two year,Low Risk,Standard retention monitoring
+4283-FUTGF,79.8499984741211,0,0,0.6909441902266584,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9548-LERKT,19.75,0,1,0.023871549015525295,0,Two year,Low Risk,Standard retention monitoring
+8059-UDZFY,105.3499984741211,0,0,0.6704734866941117,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0410-IPFTY,83.8499984741211,0,0,0.7368335002369132,1,Month-to-month,High Risk,Offer contract upgrade discount
+2478-EEWWM,44.29999923706055,0,0,0.2851712597042582,0,Month-to-month,Low Risk,Standard retention monitoring
+4619-EVPHY,91.0,1,0,0.6820901431419183,1,One year,Medium Risk,Offer targeted discount
+2277-DJJDL,99.0,0,0,0.5150695978336829,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2911-WDXMV,80.55000305175781,0,0,0.5008810313173384,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3639-XJHKQ,60.59999847412109,0,0,0.16603265127054345,0,Month-to-month,Low Risk,Standard retention monitoring
+8173-RXAYP,19.700000762939453,0,1,0.013889907876367761,0,Two year,Low Risk,Standard retention monitoring
+4537-CIBHB,20.25,1,0,0.06156192459799444,0,One year,Low Risk,Standard retention monitoring
+5442-BXVND,24.25,0,0,0.13044175314271272,0,Month-to-month,Low Risk,Standard retention monitoring
+2308-STERM,19.399999618530277,0,0,0.3814300547221256,0,Month-to-month,Low Risk,Standard retention monitoring
+7159-NOKYQ,93.1500015258789,0,1,0.11634220177431094,0,Two year,Low Risk,Standard retention monitoring
+6075-QMNRR,49.75,0,0,0.23783762890325097,0,Month-to-month,Low Risk,Standard retention monitoring
+3694-GLTJM,19.649999618530277,0,0,0.31135196781702024,0,Month-to-month,Low Risk,Standard retention monitoring
+9629-NHXFW,19.399999618530277,0,0,0.219715308324017,0,Month-to-month,Low Risk,Standard retention monitoring
+7167-PCEYD,19.799999237060547,0,1,0.003467131386552854,0,Two year,Low Risk,Standard retention monitoring
+2748-MYRVK,99.9000015258789,1,0,0.5356998984642842,1,One year,Medium Risk,Offer targeted discount
+4223-WOZCM,49.95000076293945,0,0,0.5102303211896074,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6946-LMSQS,89.05000305175781,1,0,0.2718492842672238,0,One year,Low Risk,Standard retention monitoring
+5469-NUJUR,19.950000762939453,0,1,0.042064096383606,0,Two year,Low Risk,Standard retention monitoring
+6388-TABGU,56.150001525878906,1,0,0.032736384767572006,0,One year,Low Risk,Standard retention monitoring
+1261-FWTTE,34.650001525878906,0,0,0.7177276081156662,1,Month-to-month,High Risk,Offer contract upgrade discount
+8590-YFFQO,64.94999694824219,0,1,0.0024004249808242182,0,Two year,Low Risk,Standard retention monitoring
+0082-OQIQY,94.1999969482422,0,0,0.6917160154931721,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9465-RWMXL,78.9000015258789,0,0,0.5912121212676017,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2930-UOTMB,65.25,0,0,0.09606490110239944,0,Month-to-month,Low Risk,Standard retention monitoring
+9128-CPXKI,95.8000030517578,0,1,0.30361402319331854,0,Two year,Low Risk,Standard retention monitoring
+0484-FFVBJ,64.8499984741211,1,0,0.4595497026028319,0,One year,Medium Risk,Send customer engagement campaign
+1100-DDVRV,49.79999923706055,0,0,0.46168520710707744,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9313-QOLTZ,20.899999618530277,0,0,0.15626289924091785,0,Month-to-month,Low Risk,Standard retention monitoring
+3338-CVVEH,94.5500030517578,0,0,0.8628758626461835,1,Month-to-month,High Risk,Offer contract upgrade discount
+1131-SUEKT,98.4499969482422,1,0,0.2144765693318444,0,One year,Low Risk,Standard retention monitoring
+7602-DBTOU,19.600000381469727,0,1,0.002053634834996671,0,Two year,Low Risk,Standard retention monitoring
+1385-TQOZW,20.450000762939453,0,0,0.27371342611631133,0,Month-to-month,Low Risk,Standard retention monitoring
+6892-XPFPU,104.25,0,0,0.5866970713539211,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4115-NZRKS,89.1500015258789,0,0,0.8322193462465676,1,Month-to-month,High Risk,Offer contract upgrade discount
+5514-YQENT,111.1500015258789,0,1,0.055256492459856504,0,Two year,Low Risk,Standard retention monitoring
+6319-IEJWJ,90.1999969482422,0,0,0.7035429993623806,1,Month-to-month,High Risk,Offer contract upgrade discount
+8849-AYPTR,91.25,0,0,0.7725682299323573,1,Month-to-month,High Risk,Offer contract upgrade discount
+5893-PYOLZ,81.80000305175781,0,1,0.02514741223002206,0,Two year,Low Risk,Standard retention monitoring
+7180-PISOG,74.5,0,0,0.711707036313415,1,Month-to-month,High Risk,Offer contract upgrade discount
+8443-ZRDBZ,76.05000305175781,0,0,0.853151549121161,1,Month-to-month,High Risk,Offer contract upgrade discount
+9079-YEXQJ,111.0999984741211,0,0,0.5545951809019916,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3780-YVMFA,68.55000305175781,0,0,0.3801096004251185,0,Month-to-month,Low Risk,Standard retention monitoring
+6968-MHOMU,45.0,1,0,0.08048342955711343,0,One year,Low Risk,Standard retention monitoring
+0899-LIIBW,100.8499984741211,0,0,0.7563224055608422,1,Month-to-month,High Risk,Offer contract upgrade discount
+3677-IYRBF,30.399999618530277,0,0,0.7163309716300027,1,Month-to-month,High Risk,Offer contract upgrade discount
+8393-DLHGA,95.9000015258789,0,0,0.6655166089106951,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7691-XVTZH,89.94999694824219,0,1,0.24057993526873556,0,Two year,Low Risk,Standard retention monitoring
+5360-LJCNJ,105.1500015258789,0,1,0.28745088110985495,0,Two year,Low Risk,Standard retention monitoring
+3891-PUQOD,59.20000076293945,0,0,0.5762811466375686,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0952-KMEEH,98.1500015258789,0,0,0.6184306221113411,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4919-IKATY,84.5,0,0,0.43380588281522325,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9746-UGFAC,20.850000381469727,1,0,0.1754238316308436,0,One year,Low Risk,Standard retention monitoring
+9108-EQPNQ,26.100000381469727,0,1,0.0269442427916514,0,Two year,Low Risk,Standard retention monitoring
+0531-ZZJWQ,74.0,0,0,0.45355473971543964,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8763-KIAFH,20.549999237060547,1,0,0.026500658506756005,0,One year,Low Risk,Standard retention monitoring
+5863-OOKCL,18.850000381469727,0,0,0.2731397941352427,0,Month-to-month,Low Risk,Standard retention monitoring
+2958-NHPPS,20.850000381469727,0,0,0.248036915374064,0,Month-to-month,Low Risk,Standard retention monitoring
+9530-GRMJG,84.0999984741211,0,1,0.014669920506467241,0,Two year,Low Risk,Standard retention monitoring
+1809-DMJHQ,46.0,0,0,0.48964301792922027,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0164-XAIRP,19.549999237060547,0,1,0.08118226412393535,0,Two year,Low Risk,Standard retention monitoring
+2926-JEJJC,20.200000762939453,1,0,0.2999090342056644,0,One year,Low Risk,Standard retention monitoring
+1169-WCVAK,88.80000305175781,0,0,0.17561406078271496,0,Month-to-month,Low Risk,Standard retention monitoring
+1217-VASWC,100.5500030517578,1,0,0.42455576280741775,0,One year,Medium Risk,Offer targeted discount
+2452-KDRRH,101.4000015258789,0,0,0.5721421839292068,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6402-EJMWF,55.29999923706055,0,0,0.6700495737273421,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7663-CUXZB,113.75,0,1,0.05503559424568782,0,Two year,Low Risk,Standard retention monitoring
+4312-KFRXN,25.399999618530277,0,1,0.002329250327304446,0,Two year,Low Risk,Standard retention monitoring
+3011-WQKSZ,20.0,0,0,0.1874651694652064,0,Month-to-month,Low Risk,Standard retention monitoring
+9747-DDZOS,73.5,0,0,0.8740442483530808,1,Month-to-month,High Risk,Offer contract upgrade discount
+2091-MJTFX,51.20000076293945,0,0,0.20255658271959456,0,Month-to-month,Low Risk,Standard retention monitoring
+0388-EOPEX,74.4000015258789,0,0,0.6392058186664475,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3161-ONRWK,65.8499984741211,1,0,0.013166047204379357,0,One year,Low Risk,Standard retention monitoring
+2587-EKXTS,111.5,0,0,0.5476030882120554,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9752-ZNQUT,48.59999847412109,0,0,0.6016187243149576,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9572-WUKSB,79.94999694824219,0,1,0.008149271250169562,0,Two year,Low Risk,Standard retention monitoring
+3836-FZSDJ,24.850000381469727,0,1,0.005621987637085986,0,Two year,Low Risk,Standard retention monitoring
+8805-JNRAZ,49.20000076293945,0,0,0.4950986089857199,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3069-SSVSN,25.850000381469727,1,0,0.5028874306712753,1,One year,Medium Risk,Send customer engagement campaign
+8015-IHCGW,115.5,0,1,0.04212664493326031,0,Two year,Low Risk,Standard retention monitoring
+8132-YPVBX,85.94999694824219,0,0,0.7158758188386328,1,Month-to-month,High Risk,Offer contract upgrade discount
+0235-KGSLC,85.55000305175781,0,0,0.7356483072034272,1,Month-to-month,High Risk,Offer contract upgrade discount
+1302-UHBDD,89.94999694824219,0,0,0.795202469157877,1,Month-to-month,High Risk,Offer contract upgrade discount
+3722-WPXTK,88.3499984741211,0,0,0.8731191334893903,1,Month-to-month,High Risk,Offer contract upgrade discount
+7531-GQHME,20.049999237060547,0,0,0.24283682524528516,0,Month-to-month,Low Risk,Standard retention monitoring
+1335-NTIUC,24.950000762939453,0,0,0.737596922980485,1,Month-to-month,High Risk,Offer contract upgrade discount
+9367-TCUYN,20.100000381469727,0,0,0.26815499943134896,0,Month-to-month,Low Risk,Standard retention monitoring
+1536-HBSWP,49.900001525878906,0,0,0.5845715499465144,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8573-JGCZW,19.649999618530277,1,0,0.2092506793659075,0,One year,Low Risk,Standard retention monitoring
+2694-CIUMO,79.55000305175781,0,0,0.5597971989057766,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2027-FECZV,106.6999969482422,0,0,0.7629251789203726,1,Month-to-month,High Risk,Offer contract upgrade discount
+9103-TCIHJ,55.70000076293945,0,0,0.3527265962078262,0,Month-to-month,Low Risk,Standard retention monitoring
+1545-JFUML,99.0,0,1,0.056796909396917575,0,Two year,Low Risk,Standard retention monitoring
+0524-IAVZO,85.0,0,0,0.7507953959578352,1,Month-to-month,High Risk,Offer contract upgrade discount
+5519-TEEUH,20.149999618530277,1,0,0.025272194400723594,0,One year,Low Risk,Standard retention monitoring
+6654-QGBZZ,19.899999618530277,0,0,0.394550806576599,0,Month-to-month,Low Risk,Standard retention monitoring
+2294-DMMUS,70.44999694824219,0,0,0.1471167595167969,0,Month-to-month,Low Risk,Standard retention monitoring
+0017-IUDMW,116.8000030517578,0,1,0.02638315499065196,0,Two year,Low Risk,Standard retention monitoring
+5018-LXQQG,66.30000305175781,0,0,0.19862049096712414,0,Month-to-month,Low Risk,Standard retention monitoring
+5808-TOTXO,20.549999237060547,1,0,0.09716531688539451,0,One year,Low Risk,Standard retention monitoring
+1174-FGIFN,90.4499969482422,1,0,0.2518300665664096,0,One year,Low Risk,Standard retention monitoring
+0730-KOAVE,81.19999694824219,1,0,0.10060076154080931,0,One year,Low Risk,Standard retention monitoring
+6030-REHUX,100.3000030517578,1,0,0.25002592242579336,0,One year,Low Risk,Standard retention monitoring
+5313-FPXWG,24.600000381469727,1,0,0.047525019494906645,0,One year,Low Risk,Standard retention monitoring
+2834-JKOOW,45.900001525878906,1,0,0.05339379771615885,0,One year,Low Risk,Standard retention monitoring
+9430-NKQLY,25.100000381469727,0,1,0.0012260388998762465,0,Two year,Low Risk,Standard retention monitoring
+0363-QJVFX,108.1500015258789,0,0,0.27782767102827466,0,Month-to-month,Low Risk,Standard retention monitoring
+1658-TJVOA,74.0999984741211,0,0,0.6308807908819418,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6685-GBWJZ,70.80000305175781,1,0,0.01114593375981347,0,One year,Low Risk,Standard retention monitoring
+6328-ZPBGN,95.1500015258789,0,0,0.8995552649651771,1,Month-to-month,High Risk,Offer contract upgrade discount
+4003-FUSHP,61.54999923706055,0,0,0.3428255974598345,0,Month-to-month,Low Risk,Standard retention monitoring
+7690-KPNCU,73.05000305175781,1,0,0.01812253414302022,0,One year,Low Risk,Standard retention monitoring
+2969-WGHQO,69.44999694824219,1,0,0.06655787115760962,0,One year,Low Risk,Standard retention monitoring
+1855-CFULU,20.049999237060547,0,0,0.3097511308729864,0,Month-to-month,Low Risk,Standard retention monitoring
+9788-YTFGE,19.950000762939453,0,0,0.3283629551088403,0,Month-to-month,Low Risk,Standard retention monitoring
+8266-VBFQL,90.4000015258789,0,0,0.7139334563410986,1,Month-to-month,High Risk,Offer contract upgrade discount
+2325-NBPZG,74.55000305175781,0,0,0.7055821394207094,1,Month-to-month,High Risk,Offer contract upgrade discount
+9906-NHHVC,53.5,0,1,0.05298304465727061,0,Two year,Low Risk,Standard retention monitoring
+2541-YGPKE,63.70000076293945,1,0,0.017027179546519732,0,One year,Low Risk,Standard retention monitoring
+5049-MUBWG,75.0,1,0,0.20404424098542337,0,One year,Low Risk,Standard retention monitoring
+2332-TODQS,25.049999237060547,1,0,0.018086219426081646,0,One year,Low Risk,Standard retention monitoring
+4419-UJMUS,99.3499984741211,0,1,0.10612547066388396,0,Two year,Low Risk,Standard retention monitoring
+2233-TXSIU,44.45000076293945,1,0,0.06350356568938283,0,One year,Low Risk,Standard retention monitoring
+6770-XUAGN,21.0,0,0,0.31741237633671565,0,Month-to-month,Low Risk,Standard retention monitoring
+2919-HBCJO,76.6500015258789,0,0,0.861751217696261,1,Month-to-month,High Risk,Offer contract upgrade discount
+9508-ILZDG,96.3499984741211,0,0,0.4928084548824761,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5442-BHQNG,70.3499984741211,0,0,0.8497322153748406,1,Month-to-month,High Risk,Offer contract upgrade discount
+7250-EQKIY,50.45000076293945,0,0,0.37752384312746806,0,Month-to-month,Low Risk,Standard retention monitoring
+6838-HVLXG,20.299999237060547,0,0,0.27302857141997716,0,Month-to-month,Low Risk,Standard retention monitoring
+9767-FFLEM,64.0999984741211,0,1,0.024104632310625526,0,Two year,Low Risk,Standard retention monitoring
+2245-ADZFJ,80.55000305175781,0,1,0.06764192402242379,0,Two year,Low Risk,Standard retention monitoring
+1150-WFARN,108.75,0,1,0.02716023370576863,0,Two year,Low Risk,Standard retention monitoring
+9054-FOWNV,88.75,0,0,0.5641761389176194,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9227-LUNBG,81.0999984741211,0,0,0.51874584123832,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7560-QJAVJ,79.5999984741211,0,1,0.03645373617409179,0,Two year,Low Risk,Standard retention monitoring
+2668-TZSPS,20.450000762939453,0,0,0.4017805942960509,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9139-WQQDY,100.4499969482422,1,0,0.20279934980216346,0,One year,Low Risk,Standard retention monitoring
+6726-NNFWD,89.44999694824219,0,1,0.047663401913340134,0,Two year,Low Risk,Standard retention monitoring
+9330-DHBFL,66.25,1,0,0.015099398306243413,0,One year,Low Risk,Standard retention monitoring
+5727-MYATE,90.8000030517578,0,1,0.004379904708009743,0,Two year,Low Risk,Standard retention monitoring
+2824-DXNKN,71.44999694824219,0,1,0.020403718785625746,0,Two year,Low Risk,Standard retention monitoring
+6166-ILMNY,69.75,0,0,0.9069522225310888,1,Month-to-month,High Risk,Offer contract upgrade discount
+5236-XMZJY,59.650001525878906,0,0,0.19754845509765928,0,Month-to-month,Low Risk,Standard retention monitoring
+1709-EJDOX,19.75,0,1,0.004297186882719734,0,Two year,Low Risk,Standard retention monitoring
+4962-CHQPW,19.850000381469727,1,0,0.028898314298246672,0,One year,Low Risk,Standard retention monitoring
+0301-FIDRB,63.79999923706055,0,1,0.007984891085166139,0,Two year,Low Risk,Standard retention monitoring
+1820-TQVEV,69.55000305175781,0,0,0.850218069452309,1,Month-to-month,High Risk,Offer contract upgrade discount
+9115-YQHGA,51.09999847412109,0,0,0.26980982933316383,0,Month-to-month,Low Risk,Standard retention monitoring
+1541-ETJZO,62.04999923706055,0,0,0.43405926796744704,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8469-SNFFH,85.0,0,0,0.8019299988808196,1,Month-to-month,High Risk,Offer contract upgrade discount
+6797-LNAQX,98.3000030517578,0,1,0.17418884197507253,0,Two year,Low Risk,Standard retention monitoring
+9588-YRFHY,19.899999618530277,0,1,0.007920076140721816,0,Two year,Low Risk,Standard retention monitoring
+1092-GANHU,76.6500015258789,0,0,0.7659815228302206,1,Month-to-month,High Risk,Offer contract upgrade discount
+5951-AOFIH,66.4000015258789,0,0,0.25032545349478524,0,Month-to-month,Low Risk,Standard retention monitoring
+7029-RPUAV,100.4499969482422,0,0,0.6022603572680689,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4700-UBQMV,75.9000015258789,1,0,0.21285756095544603,0,One year,Low Risk,Standard retention monitoring
+3594-UVONA,85.94999694824219,1,0,0.06442348243050802,0,One year,Low Risk,Standard retention monitoring
+7750-EYXWZ,60.650001525878906,1,0,0.23359427906561545,0,One year,Low Risk,Standard retention monitoring
+7054-ENNGU,50.84999847412109,0,0,0.3811315312585641,0,Month-to-month,Low Risk,Standard retention monitoring
+0402-OAMEN,24.450000762939453,0,1,0.003473996149541919,0,Two year,Low Risk,Standard retention monitoring
+2195-VVRJF,59.09999847412109,0,0,0.20384989237291976,0,Month-to-month,Low Risk,Standard retention monitoring
+8819-ZBYNA,109.0999984741211,0,1,0.043211223573931916,0,Two year,Low Risk,Standard retention monitoring
+7748-UMTRK,101.3000030517578,0,0,0.5699380971070225,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1741-WTPON,115.8499984741211,0,1,0.029917004965800492,0,Two year,Low Risk,Standard retention monitoring
+7209-JCUDS,94.9000015258789,0,0,0.8394302346469898,1,Month-to-month,High Risk,Offer contract upgrade discount
+2485-ITVKB,35.099998474121094,0,0,0.7826520521750393,1,Month-to-month,High Risk,Offer contract upgrade discount
+9648-BCHKM,24.649999618530277,0,1,0.017707305242456423,0,Two year,Low Risk,Standard retention monitoring
+0743-HRVFF,56.150001525878906,1,0,0.058707513055904624,0,One year,Low Risk,Standard retention monitoring
+2522-AHJXR,109.4499969482422,0,0,0.512150837384254,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9143-CANJF,55.150001525878906,0,0,0.10770008280811237,0,Month-to-month,Low Risk,Standard retention monitoring
+1444-VVSGW,115.6500015258789,1,0,0.07104478972508034,0,One year,Low Risk,Standard retention monitoring
+6898-MDLZW,53.75,0,0,0.25646992474290353,0,Month-to-month,Low Risk,Standard retention monitoring
+0074-HDKDG,61.59999847412109,1,0,0.07107947698892723,0,One year,Low Risk,Standard retention monitoring
+3982-JGSFD,20.350000381469727,1,0,0.030821182608397186,0,One year,Low Risk,Standard retention monitoring
+7928-VJYAB,90.5999984741211,0,0,0.7408902011698058,1,Month-to-month,High Risk,Offer contract upgrade discount
+1522-VVDMG,89.75,0,0,0.417766642609571,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2665-NPTGL,98.0999984741211,0,0,0.7890302977416638,1,Month-to-month,High Risk,Offer contract upgrade discount
+8728-SKJLR,74.25,0,0,0.5156684545879952,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7733-UDMTP,55.0,0,0,0.21145509956684003,0,Month-to-month,Low Risk,Standard retention monitoring
+0431-APWVY,90.0999984741211,1,0,0.5722783646992856,1,One year,Medium Risk,Offer targeted discount
+5081-NWSUP,64.9000015258789,1,0,0.1449939066413872,0,One year,Low Risk,Standard retention monitoring
+2746-DIJLO,56.29999923706055,1,0,0.08327016406104525,0,One year,Low Risk,Standard retention monitoring
+7277-OZCGZ,89.05000305175781,0,0,0.4897560377754866,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5236-PERKL,112.9499969482422,0,1,0.27707579370783475,0,Two year,Low Risk,Standard retention monitoring
+2788-CJQAQ,19.450000762939453,1,0,0.10579489892295878,0,One year,Low Risk,Standard retention monitoring
+3096-WPXBT,100.6999969482422,1,0,0.051691125782396125,0,One year,Low Risk,Standard retention monitoring
+9962-BFPDU,20.049999237060547,0,0,0.22255212514190545,0,Month-to-month,Low Risk,Standard retention monitoring
+2892-GESUL,19.350000381469727,0,1,0.018332824003721538,0,Two year,Low Risk,Standard retention monitoring
+9741-YLNTD,87.94999694824219,0,0,0.8326997098007368,1,Month-to-month,High Risk,Offer contract upgrade discount
+1205-WNWPJ,59.5,0,0,0.45164745714141924,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3173-NVMPX,55.29999923706055,0,0,0.26655487445693676,0,Month-to-month,Low Risk,Standard retention monitoring
+9661-MHUMO,49.25,0,0,0.20947584628451868,0,Month-to-month,Low Risk,Standard retention monitoring
+6000-APYLU,80.80000305175781,0,0,0.8564996983817073,1,Month-to-month,High Risk,Offer contract upgrade discount
+0048-PIHNL,20.450000762939453,1,0,0.03451771956277445,0,One year,Low Risk,Standard retention monitoring
+9420-LOJKX,99.0999984741211,0,0,0.4569978419655667,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7061-OVMIM,19.549999237060547,1,0,0.053744798032009065,0,One year,Low Risk,Standard retention monitoring
+5671-RQRLP,75.6500015258789,0,1,0.0638315306391698,0,Two year,Low Risk,Standard retention monitoring
+5129-JLPIS,105.5,0,0,0.5141700613640242,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5170-PTRKA,111.25,1,0,0.19084526761699014,0,One year,Low Risk,Standard retention monitoring
+4819-HJPIW,25.149999618530277,0,0,0.5498098742677681,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8780-RSYYU,19.200000762939453,0,0,0.13678670479575786,0,Month-to-month,Low Risk,Standard retention monitoring
+2335-GSODA,40.09999847412109,0,1,0.017314270190503328,0,Two year,Low Risk,Standard retention monitoring
+5696-CEIQJ,103.1500015258789,0,1,0.08790637423087154,0,Two year,Low Risk,Standard retention monitoring
+6169-PPETC,20.5,0,1,0.02264472910481362,0,Two year,Low Risk,Standard retention monitoring
+4237-RLAQD,45.84999847412109,0,0,0.6603076830039595,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7359-WWYJV,114.4499969482422,0,1,0.03685640332842577,0,Two year,Low Risk,Standard retention monitoring
+8620-RJPZN,20.700000762939453,0,0,0.5073817015943604,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7426-WEIJX,80.94999694824219,0,0,0.207497156202922,0,Month-to-month,Low Risk,Standard retention monitoring
+7629-WIXZF,59.09999847412109,1,0,0.27659078311781765,0,One year,Low Risk,Standard retention monitoring
+2616-FLVQC,19.549999237060547,0,1,0.003903147713604414,0,Two year,Low Risk,Standard retention monitoring
+9163-GHAYE,48.84999847412109,0,0,0.4700561933222201,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4464-JCOLN,19.850000381469727,1,0,0.08485259169182742,0,One year,Low Risk,Standard retention monitoring
+2971-SGAFL,78.75,0,0,0.45496595834925946,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4735-ASGMA,98.3499984741211,0,0,0.7852707447240758,1,Month-to-month,High Risk,Offer contract upgrade discount
+5515-AKOAJ,101.3499984741211,1,0,0.29560912316411747,0,One year,Low Risk,Standard retention monitoring
+1493-AMTIE,20.200000762939453,0,0,0.6437569114793785,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1112-CUNAO,89.8499984741211,0,0,0.7169268759068551,1,Month-to-month,High Risk,Offer contract upgrade discount
+7571-YXDAD,74.9000015258789,0,0,0.7576577916255373,1,Month-to-month,High Risk,Offer contract upgrade discount
+8714-EUHJO,91.1500015258789,0,0,0.5541126628438129,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9040-KZVWO,75.5,1,0,0.5401148855472185,1,One year,Medium Risk,Send customer engagement campaign
+6713-OKOMC,29.75,0,0,0.441368591903148,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8749-CLJXC,20.049999237060547,0,0,0.39651813032631344,0,Month-to-month,Low Risk,Standard retention monitoring
+4713-LZDRV,79.5999984741211,0,0,0.8438440258270604,1,Month-to-month,High Risk,Offer contract upgrade discount
+6598-RFFVI,19.299999237060547,1,0,0.14918022055792993,0,One year,Low Risk,Standard retention monitoring
+7470-MCQTK,48.75,0,0,0.7634763973217927,1,Month-to-month,High Risk,Offer contract upgrade discount
+5524-KHNJP,74.75,1,0,0.042534013603287756,0,One year,Low Risk,Standard retention monitoring
+1707-HABPF,91.3000030517578,1,0,0.40084930155741094,0,One year,Medium Risk,Offer targeted discount
+4581-LNWUM,49.150001525878906,0,0,0.7134072142904242,1,Month-to-month,High Risk,Offer contract upgrade discount
+9710-ZUSHQ,106.75,0,0,0.6990889032521197,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1697-LYYYX,19.100000381469727,1,0,0.003327378253943753,0,One year,Low Risk,Standard retention monitoring
+4013-GUXND,20.799999237060547,0,0,0.40640389905800783,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5022-JNQEQ,75.8499984741211,0,0,0.5191225737251519,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4983-CCWMC,69.5999984741211,0,0,0.7806353951624246,1,Month-to-month,High Risk,Offer contract upgrade discount
+6345-FZOQH,19.899999618530277,0,1,0.002300867443674219,0,Two year,Low Risk,Standard retention monitoring
+0962-CQPWQ,20.299999237060547,0,1,0.0055223820037639745,0,Two year,Low Risk,Standard retention monitoring
+5495-GPSRW,19.700000762939453,0,1,0.040057874294595515,0,Two year,Low Risk,Standard retention monitoring
+2252-JHJGE,104.0,1,0,0.3084797003470057,0,One year,Low Risk,Standard retention monitoring
+7356-AYNJP,23.899999618530277,1,0,0.21795790113161123,0,One year,Low Risk,Standard retention monitoring
+2019-HDCZY,102.5999984741211,0,1,0.27665051323524686,0,Two year,Low Risk,Standard retention monitoring
+8582-KRHPJ,35.0,0,0,0.07588242644991791,0,Month-to-month,Low Risk,Standard retention monitoring
+2867-UIMSS,80.5,0,0,0.873542229923109,1,Month-to-month,High Risk,Offer contract upgrade discount
+3487-EARAT,74.0999984741211,1,0,0.004579834909791222,0,One year,Low Risk,Standard retention monitoring
+9926-PJHDQ,76.80000305175781,0,1,0.0663468251196438,0,Two year,Low Risk,Standard retention monitoring
+0289-IVARM,60.54999923706055,0,0,0.1453120540760409,0,Month-to-month,Low Risk,Standard retention monitoring
+4672-FOTSD,67.25,0,0,0.2330815885027483,0,Month-to-month,Low Risk,Standard retention monitoring
+6198-PNNSZ,109.8000030517578,1,0,0.29842753726269927,0,One year,Low Risk,Standard retention monitoring
+7603-USHJS,73.75,0,0,0.5760260149646491,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6784-XYJAE,55.79999923706055,1,0,0.17792843609326375,0,One year,Low Risk,Standard retention monitoring
+3858-XHYJO,105.75,1,0,0.44773864929227275,0,One year,Medium Risk,Offer targeted discount
+1087-UDSIH,19.600000381469727,0,0,0.37054831957564455,0,Month-to-month,Low Risk,Standard retention monitoring
+7251-LJBQN,103.75,1,0,0.22165322991121542,0,One year,Low Risk,Standard retention monitoring
+3200-MNQTF,70.9000015258789,0,1,0.003285739003970257,0,Two year,Low Risk,Standard retention monitoring
+9359-UGBTK,72.3499984741211,1,0,0.06936852899440456,0,One year,Low Risk,Standard retention monitoring
+8160-HOWOX,66.8499984741211,0,0,0.7708364883296538,1,Month-to-month,High Risk,Offer contract upgrade discount
+0258-NOKBL,90.4000015258789,0,0,0.7418426241801295,1,Month-to-month,High Risk,Offer contract upgrade discount
+2800-QQUSO,100.3000030517578,0,0,0.7063522748269359,1,Month-to-month,High Risk,Offer contract upgrade discount
+2129-ALKBS,26.200000762939453,0,0,0.06540275468057372,0,Month-to-month,Low Risk,Standard retention monitoring
+9972-VAFJJ,94.0,1,0,0.10486184930267718,0,One year,Low Risk,Standard retention monitoring
+4693-VWVBO,19.549999237060547,0,0,0.46589001679434,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6969-MVBAI,90.0999984741211,0,0,0.7694486605122608,1,Month-to-month,High Risk,Offer contract upgrade discount
+4821-WQOYN,20.100000381469727,0,1,0.0009687706761944794,0,Two year,Low Risk,Standard retention monitoring
+6769-DYBQN,85.0,0,0,0.5015216173803398,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4018-PPNDW,24.100000381469727,0,1,0.0023942092973703705,0,Two year,Low Risk,Standard retention monitoring
+6288-CHQJB,69.94999694824219,0,1,0.017218224265362014,0,Two year,Low Risk,Standard retention monitoring
+4905-JEFDW,41.59999847412109,1,0,0.47036351457976117,0,One year,Medium Risk,Send customer engagement campaign
+0559-CKHUS,19.549999237060547,0,1,0.018018799125545736,0,Two year,Low Risk,Standard retention monitoring
+2659-VXMWZ,111.3000030517578,1,0,0.1361783446074947,0,One year,Low Risk,Standard retention monitoring
+6559-RAKOZ,97.9499969482422,1,0,0.22735125438669598,0,One year,Low Risk,Standard retention monitoring
+8809-XKHMD,100.5500030517578,0,1,0.08535682767075936,0,Two year,Low Risk,Standard retention monitoring
+6365-HITVU,87.25,0,1,0.00480704251005009,0,Two year,Low Risk,Standard retention monitoring
+0134-XWXCE,74.8499984741211,1,0,0.18111672000617404,0,One year,Low Risk,Standard retention monitoring
+9720-JJJOR,60.29999923706055,1,0,0.03963406999958782,0,One year,Low Risk,Standard retention monitoring
+2782-LFZVW,58.95000076293945,0,0,0.5912618522376107,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6112-KTHFQ,19.299999237060547,0,0,0.2576637540271739,0,Month-to-month,Low Risk,Standard retention monitoring
+9220-ZNKJI,88.80000305175781,0,1,0.044393376562221316,0,Two year,Low Risk,Standard retention monitoring
+3174-RKMOW,48.54999923706055,0,0,0.2976587318548139,0,Month-to-month,Low Risk,Standard retention monitoring
+9013-AQORL,45.54999923706055,0,0,0.09958816239986253,0,Month-to-month,Low Risk,Standard retention monitoring
+2040-OBMLJ,81.69999694824219,1,0,0.24907901914976552,0,One year,Low Risk,Standard retention monitoring
+5574-NXZIU,109.1999969482422,0,1,0.04376088760683008,0,Two year,Low Risk,Standard retention monitoring
+5446-DKWYW,65.19999694824219,1,0,0.045045165096663745,0,One year,Low Risk,Standard retention monitoring
+0480-KYJVA,24.25,0,1,0.0011459382581696098,0,Two year,Low Risk,Standard retention monitoring
+1074-AMIOH,108.25,0,0,0.5306477617244585,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0015-UOCOJ,48.20000076293945,0,0,0.41369348575863546,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0256-LTHVJ,81.05000305175781,0,0,0.6337594784200625,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4547-LYTDD,72.6500015258789,0,0,0.7767241134075299,1,Month-to-month,High Risk,Offer contract upgrade discount
+1077-HUUJM,71.05000305175781,0,0,0.752240255201153,1,Month-to-month,High Risk,Offer contract upgrade discount
+2041-JIJCI,64.0,0,0,0.62618621122194,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1555-HAPSU,23.899999618530277,0,1,0.0011243425388087335,0,Two year,Low Risk,Standard retention monitoring
+4323-SADQS,34.5,0,0,0.24009818768219657,0,Month-to-month,Low Risk,Standard retention monitoring
+3292-PBZEJ,111.4000015258789,0,0,0.5637667437921722,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6203-HBZPA,63.900001525878906,0,1,0.010154242840647218,0,Two year,Low Risk,Standard retention monitoring
+9755-JHNMN,67.4000015258789,0,1,0.02275636312871675,0,Two year,Low Risk,Standard retention monitoring
+7369-TRPFD,18.799999237060547,1,0,0.0726146876099433,0,One year,Low Risk,Standard retention monitoring
+9878-TNQGW,80.94999694824219,0,0,0.8771112582973958,1,Month-to-month,High Risk,Offer contract upgrade discount
+2279-AXJJK,95.6500015258789,0,0,0.3118108192076483,0,Month-to-month,Low Risk,Standard retention monitoring
+5016-IBERQ,84.25,0,0,0.5368476964725327,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1016-DJTSV,69.69999694824219,0,0,0.7909778395281889,1,Month-to-month,High Risk,Offer contract upgrade discount
+8433-WPJTV,103.9000015258789,1,0,0.2322222239951104,0,One year,Low Risk,Standard retention monitoring
+8903-XEBGX,55.29999923706055,0,0,0.6554542678776044,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2632-TACXW,23.649999618530277,0,1,0.009073874156919601,0,Two year,Low Risk,Standard retention monitoring
+7952-OBOYL,89.8499984741211,0,0,0.5985139659553458,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1470-PSXNM,93.6500015258789,1,0,0.15403555646909084,0,One year,Low Risk,Standard retention monitoring
+6227-HWPWX,69.0,0,0,0.7884724872829962,1,Month-to-month,High Risk,Offer contract upgrade discount
+5924-SNGKP,20.25,1,0,0.014623588131969536,0,One year,Low Risk,Standard retention monitoring
+8818-DOPVL,104.4499969482422,0,0,0.627372979109878,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4521-WFJAI,25.950000762939453,0,1,0.020629563827825333,0,Two year,Low Risk,Standard retention monitoring
+4724-WXVWF,95.4000015258789,0,0,0.42617574790356966,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3717-OEAUQ,70.69999694824219,0,0,0.7901762110390576,1,Month-to-month,High Risk,Offer contract upgrade discount
+8165-ZJRNM,23.75,0,1,0.0032958135868800297,0,Two year,Low Risk,Standard retention monitoring
+7838-LAZFO,78.80000305175781,1,0,0.0990873606384273,0,One year,Low Risk,Standard retention monitoring
+0513-RBGPE,62.79999923706055,0,1,0.0055400513871556555,0,Two year,Low Risk,Standard retention monitoring
+7251-XFOIL,89.19999694824219,0,0,0.5367465434411426,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2525-GVKQU,20.600000381469727,0,1,0.004907471625746464,0,Two year,Low Risk,Standard retention monitoring
+7579-OOPEC,50.150001525878906,0,0,0.34421878756686325,0,Month-to-month,Low Risk,Standard retention monitoring
+3795-GWTRD,75.55000305175781,0,1,0.002709468588261565,0,Two year,Low Risk,Standard retention monitoring
+4750-ZRXIU,84.5999984741211,0,0,0.8360106734857006,1,Month-to-month,High Risk,Offer contract upgrade discount
+5445-PZWGX,102.0,1,0,0.161595487361041,0,One year,Low Risk,Standard retention monitoring
+0516-UXRMT,92.0500030517578,1,0,0.14356312399609797,0,One year,Low Risk,Standard retention monitoring
+0727-BNRLG,97.6500015258789,0,1,0.04659388701894239,0,Two year,Low Risk,Standard retention monitoring
+3932-CMDTD,105.6500015258789,1,0,0.3694115376137605,0,One year,Low Risk,Standard retention monitoring
+1264-FUHCX,56.29999923706055,1,0,0.047889579868689684,0,One year,Low Risk,Standard retention monitoring
+6194-HBGQN,81.1500015258789,1,0,0.020670637466177092,0,One year,Low Risk,Standard retention monitoring
+4524-QCSSM,44.650001525878906,0,0,0.45190311638783415,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4570-QHXHL,43.75,0,0,0.6565634041839906,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2972-YDYUW,94.6999969482422,1,0,0.23607625748761008,0,One year,Low Risk,Standard retention monitoring
+2061-VVFST,19.5,0,0,0.165796072649509,0,Month-to-month,Low Risk,Standard retention monitoring
+6874-SGLHU,97.0,1,0,0.6835429824000332,1,One year,Medium Risk,Offer targeted discount
+9844-FELAJ,107.9000015258789,1,0,0.0893966729999348,0,One year,Low Risk,Standard retention monitoring
+1902-XBTFB,89.4000015258789,0,0,0.5282571322013031,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9039-RBEEE,48.95000076293945,0,0,0.07083888657141942,0,Month-to-month,Low Risk,Standard retention monitoring
+9369-XFEHK,80.5999984741211,0,0,0.6443735853902113,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3680-CTHUH,116.5999984741211,1,0,0.11523906083921583,0,One year,Low Risk,Standard retention monitoring
+3679-XASPY,19.450000762939453,0,0,0.2952744715243192,0,Month-to-month,Low Risk,Standard retention monitoring
+9089-UOWJG,58.34999847412109,0,0,0.2698690135099063,0,Month-to-month,Low Risk,Standard retention monitoring
+1574-DYCWE,19.950000762939453,0,1,0.0035239925538689877,0,Two year,Low Risk,Standard retention monitoring
+9779-DPNEJ,80.1500015258789,0,0,0.6585592728119878,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2967-MXRAV,18.799999237060547,1,0,0.08478619723789323,0,One year,Low Risk,Standard retention monitoring
+0327-WFZSY,100.0,1,0,0.3391250253185522,0,One year,Low Risk,Standard retention monitoring
+1731-TVIUK,93.5,0,0,0.6365274153144285,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7666-WKRON,80.44999694824219,0,1,0.1472021979722186,0,Two year,Low Risk,Standard retention monitoring
+3865-ZYKAD,84.9000015258789,0,0,0.11154776088211668,0,Month-to-month,Low Risk,Standard retention monitoring
+1465-LNTLJ,64.4000015258789,0,0,0.25300013081939743,0,Month-to-month,Low Risk,Standard retention monitoring
+2696-RZVZW,25.049999237060547,0,1,0.002410666463513312,0,Two year,Low Risk,Standard retention monitoring
+0685-MLYYM,70.75,0,0,0.823166060781129,1,Month-to-month,High Risk,Offer contract upgrade discount
+2778-OCLGR,39.09999847412109,0,0,0.4512250340484702,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3982-XWFZQ,50.25,0,0,0.32682240962633907,0,Month-to-month,Low Risk,Standard retention monitoring
+4759-PXTAN,80.0999984741211,1,0,0.07046917331235324,0,One year,Low Risk,Standard retention monitoring
+1448-PWKYE,80.0,0,0,0.7454249231253229,1,Month-to-month,High Risk,Offer contract upgrade discount
+8741-LQOBK,35.04999923706055,0,0,0.1001767577458051,0,Month-to-month,Low Risk,Standard retention monitoring
+8650-RHRKE,29.649999618530277,0,0,0.7316421989049359,1,Month-to-month,High Risk,Offer contract upgrade discount
+7266-GSSJX,20.450000762939453,0,0,0.213867094080073,0,Month-to-month,Low Risk,Standard retention monitoring
+1265-HVPZB,66.4000015258789,1,0,0.01299681510033861,0,One year,Low Risk,Standard retention monitoring
+9640-ZSLDC,60.59999847412109,1,0,0.04093014628186703,0,One year,Low Risk,Standard retention monitoring
+0988-JRWWP,54.20000076293945,0,0,0.7295793017326064,1,Month-to-month,High Risk,Offer contract upgrade discount
+1926-QUZNN,25.25,0,1,0.006718897886242084,0,Two year,Low Risk,Standard retention monitoring
+9025-ZRPVR,18.950000762939453,0,0,0.294199852733122,0,Month-to-month,Low Risk,Standard retention monitoring
+6527-PZFPV,20.799999237060547,1,0,0.026111998225839195,0,One year,Low Risk,Standard retention monitoring
+7460-ITWWP,86.0999984741211,0,0,0.5796227587647111,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1530-ZTDOZ,40.650001525878906,0,0,0.2783042108855568,0,Month-to-month,Low Risk,Standard retention monitoring
+4785-FCIFB,24.399999618530277,0,1,0.0037806919064303605,0,Two year,Low Risk,Standard retention monitoring
+9717-QEBGU,70.30000305175781,0,0,0.8525000974836136,1,Month-to-month,High Risk,Offer contract upgrade discount
+0876-WDUUZ,85.4000015258789,0,0,0.6487994914332221,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7881-EVUAD,42.59999847412109,0,0,0.5173019654864544,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4002-BQWPQ,81.75,0,0,0.266244981495514,0,Month-to-month,Low Risk,Standard retention monitoring
+6377-WHAOX,106.1500015258789,0,0,0.6120185997075219,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5027-YOCXN,110.0500030517578,1,0,0.057066830342425726,0,One year,Low Risk,Standard retention monitoring
+8725-JEDFD,56.70000076293945,0,0,0.27025389975110575,0,Month-to-month,Low Risk,Standard retention monitoring
+6646-QVXLR,103.75,1,0,0.2481348064882069,0,One year,Low Risk,Standard retention monitoring
+0254-KCJGT,81.4000015258789,1,0,0.01765978638416547,0,One year,Low Risk,Standard retention monitoring
+3442-ZHHCC,76.9000015258789,1,0,0.024753815304784772,0,One year,Low Risk,Standard retention monitoring
+9167-APMXZ,84.1500015258789,0,0,0.875064567135976,1,Month-to-month,High Risk,Offer contract upgrade discount
+0616-ATFGB,25.049999237060547,0,0,0.7127909780583688,1,Month-to-month,High Risk,Offer contract upgrade discount
+7273-TEFQD,41.150001525878906,0,0,0.7470005577543772,1,Month-to-month,High Risk,Offer contract upgrade discount
+8245-UMPYT,96.4000015258789,0,0,0.8430795491387397,1,Month-to-month,High Risk,Offer contract upgrade discount
+6022-UGGSO,74.4000015258789,0,0,0.5313250603789372,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6292-TOSSS,24.899999618530277,0,1,0.024405009101101827,0,Two year,Low Risk,Standard retention monitoring
+5207-PLSTK,48.75,0,0,0.249119017239042,0,Month-to-month,Low Risk,Standard retention monitoring
+3199-NPKCN,83.9000015258789,0,0,0.8096730546529192,1,Month-to-month,High Risk,Offer contract upgrade discount
+4317-VTEOA,50.75,0,0,0.629519628524125,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0625-AFOHS,20.200000762939453,0,1,0.01104735425433107,0,Two year,Low Risk,Standard retention monitoring
+4667-OHGKG,19.299999237060547,0,0,0.3912762156862388,0,Month-to-month,Low Risk,Standard retention monitoring
+2386-OWURY,95.3000030517578,0,0,0.6665886929855112,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3780-DDGSE,76.05000305175781,0,0,0.15269724962668266,0,Month-to-month,Low Risk,Standard retention monitoring
+1047-RNXZV,108.4000015258789,0,1,0.030568217563181482,0,Two year,Low Risk,Standard retention monitoring
+3926-YZVVX,50.04999923706055,1,0,0.16001270115938573,0,One year,Low Risk,Standard retention monitoring
+4742-TXUEX,19.299999237060547,0,1,0.01081187432218834,0,Two year,Low Risk,Standard retention monitoring
+8709-KRDVL,100.0,0,0,0.752005413038689,1,Month-to-month,High Risk,Offer contract upgrade discount
+0397-ZXWQF,20.5,0,1,0.009993159978134046,0,Two year,Low Risk,Standard retention monitoring
+3910-MRQOY,19.399999618530277,0,1,0.0053069004668187475,0,Two year,Low Risk,Standard retention monitoring
+2511-MORQY,54.900001525878906,1,0,0.08506083568179437,0,One year,Low Risk,Standard retention monitoring
+4039-PIMHX,49.79999923706055,0,1,0.01675276372801906,0,Two year,Low Risk,Standard retention monitoring
+8083-YTZES,74.3499984741211,0,0,0.835578689990997,1,Month-to-month,High Risk,Offer contract upgrade discount
+1346-PJWTK,94.1500015258789,0,0,0.19375528390096128,0,Month-to-month,Low Risk,Standard retention monitoring
+3750-YHRYO,20.649999618530277,1,0,0.07002201766703271,0,One year,Low Risk,Standard retention monitoring
+1236-WFCDV,90.4499969482422,0,0,0.7319497993204646,1,Month-to-month,High Risk,Offer contract upgrade discount
+5949-HGVJL,73.05000305175781,0,0,0.27929530828395405,0,Month-to-month,Low Risk,Standard retention monitoring
+9112-WSNPU,70.55000305175781,0,0,0.6458326239213168,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1360-JYXKQ,99.0999984741211,1,0,0.23034075331349302,0,One year,Low Risk,Standard retention monitoring
+3585-ISXZP,95.6500015258789,0,0,0.9253465766817845,1,Month-to-month,High Risk,Offer contract upgrade discount
+8380-PEFPE,71.6500015258789,0,0,0.7891059479627885,1,Month-to-month,High Risk,Offer contract upgrade discount
+9402-ROUMJ,100.25,1,0,0.12249902676690419,0,One year,Low Risk,Standard retention monitoring
+4335-UPJSI,19.75,0,1,0.019159009870525805,0,Two year,Low Risk,Standard retention monitoring
+6096-EGVTU,24.899999618530277,1,0,0.004225121570322265,0,One year,Low Risk,Standard retention monitoring
+8988-ECPJR,79.5999984741211,0,0,0.2675911848675717,0,Month-to-month,Low Risk,Standard retention monitoring
+7677-SJJJK,19.899999618530277,1,0,0.0549175389379402,0,One year,Low Risk,Standard retention monitoring
+5850-BDWCY,20.200000762939453,0,0,0.3381377668511835,0,Month-to-month,Low Risk,Standard retention monitoring
+2025-JKFWI,99.0,0,0,0.6742037601950902,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8028-PNXHQ,24.25,0,1,0.005652378527105724,0,Two year,Low Risk,Standard retention monitoring
+8397-MVTAZ,100.0500030517578,0,0,0.7471786837162872,1,Month-to-month,High Risk,Offer contract upgrade discount
+4445-ZJNMU,99.3000030517578,0,0,0.6873133950851981,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3125-RAHBV,20.299999237060547,1,0,0.06250861494156486,0,One year,Low Risk,Standard retention monitoring
+6682-QJDGB,55.25,0,0,0.06597056550008695,0,Month-to-month,Low Risk,Standard retention monitoring
+8840-DQLGN,100.5,0,0,0.3898820486363276,0,Month-to-month,Low Risk,Standard retention monitoring
+6258-NGCNG,23.5,0,0,0.30957590825410636,0,Month-to-month,Low Risk,Standard retention monitoring
+5917-RYRMG,19.799999237060547,1,0,0.028313565609266254,0,One year,Low Risk,Standard retention monitoring
+7157-SMCFK,19.75,0,1,0.0026364567795839795,0,Two year,Low Risk,Standard retention monitoring
+0816-TSPHQ,20.75,0,0,0.393980387432833,0,Month-to-month,Low Risk,Standard retention monitoring
+6766-HFKLA,103.1999969482422,0,1,0.23922296760231923,0,Two year,Low Risk,Standard retention monitoring
+7067-KSAZT,106.25,1,0,0.29825943130897475,0,One year,Low Risk,Standard retention monitoring
+5155-AZQPB,49.900001525878906,0,0,0.22526323949059235,0,Month-to-month,Low Risk,Standard retention monitoring
+6890-PFRQX,69.5,0,0,0.2806145473266236,0,Month-to-month,Low Risk,Standard retention monitoring
+3508-VLHCZ,90.5500030517578,0,1,0.004241211959893782,0,Two year,Low Risk,Standard retention monitoring
+3649-JPUGY,88.5999984741211,0,1,0.0705430857756535,0,Two year,Low Risk,Standard retention monitoring
+9248-OJYKK,76.44999694824219,0,0,0.8331701754216546,1,Month-to-month,High Risk,Offer contract upgrade discount
+7239-HZZCX,19.75,0,0,0.39258689389684076,0,Month-to-month,Low Risk,Standard retention monitoring
+9860-LISIZ,20.350000381469727,0,0,0.1054946328810312,0,Month-to-month,Low Risk,Standard retention monitoring
+6979-ZNSFF,87.05000305175781,0,0,0.86804576774888,1,Month-to-month,High Risk,Offer contract upgrade discount
+8938-UMKPI,106.4000015258789,0,0,0.7177429428749955,1,Month-to-month,High Risk,Offer contract upgrade discount
+1820-DJFPH,24.049999237060547,0,1,0.003466946042551614,0,Two year,Low Risk,Standard retention monitoring
+0732-OCQOC,25.049999237060547,0,1,0.01016675272923846,0,Two year,Low Risk,Standard retention monitoring
+6776-TLWOI,19.850000381469727,0,0,0.37019541015855906,0,Month-to-month,Low Risk,Standard retention monitoring
+4940-KHCWD,37.70000076293945,0,1,0.00826768630153936,0,Two year,Low Risk,Standard retention monitoring
+9057-SIHCH,96.5999984741211,0,0,0.8892256303209362,1,Month-to-month,High Risk,Offer contract upgrade discount
+9866-QEVEE,86.0,0,0,0.8958089967381256,1,Month-to-month,High Risk,Offer contract upgrade discount
+5542-TBBWB,69.9000015258789,0,0,0.852646706985667,1,Month-to-month,High Risk,Offer contract upgrade discount
+4587-VVTOX,105.3000030517578,0,0,0.6888716148918563,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6322-HRPFA,59.59999847412109,0,0,0.01824751947531196,0,Month-to-month,Low Risk,Standard retention monitoring
+6284-AHOOQ,90.5,0,0,0.7579261209261564,1,Month-to-month,High Risk,Offer contract upgrade discount
+4530-NDRKU,19.049999237060547,1,0,0.015959196214782412,0,One year,Low Risk,Standard retention monitoring
+1751-NCDLI,98.8499984741211,0,0,0.6415737140932687,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3893-JRNFS,39.900001525878906,0,0,0.2892378991812252,0,Month-to-month,Low Risk,Standard retention monitoring
+5857-XRECV,20.5,1,0,0.2577249517623896,0,One year,Low Risk,Standard retention monitoring
+3115-CZMZD,20.25,0,1,0.06532342797365555,0,Two year,Low Risk,Standard retention monitoring
+4489-SNOJF,72.25,0,0,0.07361464640239569,0,Month-to-month,Low Risk,Standard retention monitoring
+1051-GEJLJ,19.5,0,0,0.3738711481027276,0,Month-to-month,Low Risk,Standard retention monitoring
+3563-SVYLG,62.650001525878906,0,1,0.0013133766960286692,0,Two year,Low Risk,Standard retention monitoring
+4301-VVZKA,75.4000015258789,0,0,0.7521678410652881,1,Month-to-month,High Risk,Offer contract upgrade discount
+9351-HXDMR,110.9000015258789,0,1,0.06382012677419974,0,Two year,Low Risk,Standard retention monitoring
+5161-XEUVX,94.3000030517578,0,1,0.0989319904299535,0,Two year,Low Risk,Standard retention monitoring
+3088-FVYWK,25.549999237060547,0,1,0.0032058976903026077,0,Two year,Low Risk,Standard retention monitoring
+9812-GHVRI,83.8499984741211,0,0,0.8491217277392977,1,Month-to-month,High Risk,Offer contract upgrade discount
+1370-GGAWX,94.1500015258789,1,0,0.3448020297855665,0,One year,Low Risk,Standard retention monitoring
+6023-YEBUP,100.9499969482422,0,0,0.8559105934654406,1,Month-to-month,High Risk,Offer contract upgrade discount
+9940-RHLFB,75.30000305175781,0,0,0.8123757057168457,1,Month-to-month,High Risk,Offer contract upgrade discount
+4541-RMRLG,19.25,0,0,0.4056190197255712,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2606-RMDHZ,30.5,0,0,0.538680929123063,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5575-TPIZQ,89.1500015258789,0,0,0.4291573639550227,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9378-FXTIZ,70.1500015258789,1,0,0.10932058434213666,0,One year,Low Risk,Standard retention monitoring
+4631-OACRM,79.4000015258789,0,0,0.7900976356391285,1,Month-to-month,High Risk,Offer contract upgrade discount
+8593-WHYHV,85.30000305175781,0,0,0.8711731521610032,1,Month-to-month,High Risk,Offer contract upgrade discount
+1403-GYAFU,20.049999237060547,0,1,0.0010940644338333018,0,Two year,Low Risk,Standard retention monitoring
+7641-TQFHN,100.5500030517578,0,1,0.1387866502080283,0,Two year,Low Risk,Standard retention monitoring
+4237-CLSMM,20.0,0,0,0.31512091490354605,0,Month-to-month,Low Risk,Standard retention monitoring
+4360-PNRQB,75.5999984741211,0,0,0.8779521242906909,1,Month-to-month,High Risk,Offer contract upgrade discount
+5334-AFQJB,25.100000381469727,0,1,0.0022253623435483753,0,Two year,Low Risk,Standard retention monitoring
+9308-ANMVE,55.29999923706055,0,0,0.08264247621569168,0,Month-to-month,Low Risk,Standard retention monitoring
+3530-VWVGU,19.899999618530277,0,0,0.08455451781182441,0,Month-to-month,Low Risk,Standard retention monitoring
+4674-HGNUA,89.9000015258789,0,1,0.004505106714887393,0,Two year,Low Risk,Standard retention monitoring
+3030-YDNRM,74.8499984741211,0,0,0.8269439524728922,1,Month-to-month,High Risk,Offer contract upgrade discount
+3642-BYHDO,19.899999618530277,0,1,0.0032299162000319326,0,Two year,Low Risk,Standard retention monitoring
+0440-UEDAI,94.4499969482422,1,0,0.11932164833379992,0,One year,Low Risk,Standard retention monitoring
+9819-FBNSV,72.25,0,0,0.7184149594548422,1,Month-to-month,High Risk,Offer contract upgrade discount
+9289-LBQVU,70.1500015258789,1,0,0.029296646770973912,0,One year,Low Risk,Standard retention monitoring
+4468-YDOVK,48.650001525878906,0,0,0.5383842467523527,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2001-EWBQU,104.6999969482422,0,1,0.23966421530869456,0,Two year,Low Risk,Standard retention monitoring
+9992-UJOEL,50.29999923706055,0,0,0.5114404155273466,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8409-WQJUX,54.20000076293945,1,0,0.2335642082236892,0,One year,Low Risk,Standard retention monitoring
+3077-RSNTJ,19.700000762939453,0,0,0.17708192752707985,0,Month-to-month,Low Risk,Standard retention monitoring
+6993-YCOBK,110.5999984741211,0,1,0.059667486309403356,0,Two year,Low Risk,Standard retention monitoring
+4817-VYYWS,100.1999969482422,0,0,0.756840974978404,1,Month-to-month,High Risk,Offer contract upgrade discount
+4702-HDRKD,49.34999847412109,1,0,0.037638624407870545,0,One year,Low Risk,Standard retention monitoring
+3251-YMVWZ,24.049999237060547,1,0,0.040947437330996754,0,One year,Low Risk,Standard retention monitoring
+4190-MFLUW,55.20000076293945,0,0,0.1570084536174846,0,Month-to-month,Low Risk,Standard retention monitoring
+4678-DVQEO,52.20000076293945,0,0,0.6148485598162338,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4701-AHWMW,54.54999923706055,0,0,0.2867966542654869,0,Month-to-month,Low Risk,Standard retention monitoring
+2987-BJXIK,84.69999694824219,0,1,0.01967352202285041,0,Two year,Low Risk,Standard retention monitoring
+1730-VFMWO,50.20000076293945,0,0,0.3646680885544736,0,Month-to-month,Low Risk,Standard retention monitoring
+1936-UAFEH,110.25,0,1,0.05035149961477569,0,Two year,Low Risk,Standard retention monitoring
+5140-FOMCQ,109.1500015258789,1,0,0.12256014451739011,0,One year,Low Risk,Standard retention monitoring
+8778-LMWTJ,74.8499984741211,0,0,0.6805319421873918,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9840-DVNDC,80.5,0,0,0.7668465920494192,1,Month-to-month,High Risk,Offer contract upgrade discount
+8033-VCZGH,103.9499969482422,1,0,0.2738566619313425,0,One year,Low Risk,Standard retention monitoring
+8580-QVLOC,92.4499969482422,0,1,0.003800658622728948,0,Two year,Low Risk,Standard retention monitoring
+6128-AQBMT,53.95000076293945,0,0,0.24680180636351137,0,Month-to-month,Low Risk,Standard retention monitoring
+6257-RJOHI,50.79999923706055,0,0,0.46653547230674036,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1929-ZCBHE,40.29999923706055,1,0,0.014403365704601363,0,One year,Low Risk,Standard retention monitoring
+6242-SGYTS,94.9499969482422,1,0,0.052138945023659226,0,One year,Low Risk,Standard retention monitoring
+7010-ZMVBF,20.450000762939453,0,0,0.1069278977155036,0,Month-to-month,Low Risk,Standard retention monitoring
+3519-ZKXGG,75.8499984741211,0,0,0.8157914547494902,1,Month-to-month,High Risk,Offer contract upgrade discount
+5666-MBJPT,25.100000381469727,0,1,0.013060806285169918,0,Two year,Low Risk,Standard retention monitoring
+0323-XWWTN,85.55000305175781,1,0,0.37403821221414874,0,One year,Low Risk,Standard retention monitoring
+7581-EBBOU,70.1500015258789,1,0,0.026624059215782894,0,One year,Low Risk,Standard retention monitoring
+1784-BXEFA,20.549999237060547,0,0,0.29858396142898685,0,Month-to-month,Low Risk,Standard retention monitoring
+7492-TAFJD,38.54999923706055,0,1,0.027471710006272635,0,Two year,Low Risk,Standard retention monitoring
+5213-TWWJU,91.0,0,0,0.641589771897989,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3312-ZWLGF,79.30000305175781,0,0,0.4859740672210291,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2923-ARZLG,19.700000762939453,1,0,0.0946703548884741,0,One year,Low Risk,Standard retention monitoring
+7032-LMBHI,64.6500015258789,1,0,0.21122925627728054,0,One year,Low Risk,Standard retention monitoring
+8292-ITGYJ,24.649999618530277,0,1,0.01438142605367823,0,Two year,Low Risk,Standard retention monitoring
+9107-UKCKY,79.80000305175781,1,0,0.09842563618404723,0,One year,Low Risk,Standard retention monitoring
+6848-HJTXY,19.450000762939453,0,1,0.002426481487745952,0,Two year,Low Risk,Standard retention monitoring
+4184-VODJZ,91.3499984741211,1,0,0.19221929160034737,0,One year,Low Risk,Standard retention monitoring
+4846-WHAFZ,76.5,0,0,0.6169842056023367,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8735-SDUFN,24.299999237060547,0,1,0.004812302951705693,0,Two year,Low Risk,Standard retention monitoring
+0839-JTCUD,89.9000015258789,0,1,0.004779120236785217,0,Two year,Low Risk,Standard retention monitoring
+6857-VWJDT,95.6500015258789,0,0,0.8351978296610422,1,Month-to-month,High Risk,Offer contract upgrade discount
+7363-QTBIW,79.75,0,0,0.8127297222965235,1,Month-to-month,High Risk,Offer contract upgrade discount
+6158-HDPXZ,25.350000381469727,0,0,0.739567171284457,1,Month-to-month,High Risk,Offer contract upgrade discount
+5419-CONWX,99.8000030517578,0,0,0.5912674764584595,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9286-DOJGF,74.94999694824219,0,0,0.7110943957258943,1,Month-to-month,High Risk,Offer contract upgrade discount
+2408-PSJVE,61.900001525878906,0,0,0.05405092984098231,0,Month-to-month,Low Risk,Standard retention monitoring
+2087-QAREY,54.70000076293945,0,0,0.21787440014990062,0,Month-to-month,Low Risk,Standard retention monitoring
+6777-TGHTM,106.9499969482422,1,0,0.27133296378588273,0,One year,Low Risk,Standard retention monitoring
+6507-ZJSUR,90.4499969482422,0,0,0.7622840800655188,1,Month-to-month,High Risk,Offer contract upgrade discount
+5025-GOOKI,18.899999618530277,0,0,0.16196456312211124,0,Month-to-month,Low Risk,Standard retention monitoring
+6080-LNESI,24.75,0,1,0.008812337750554197,0,Two year,Low Risk,Standard retention monitoring
+2236-HILPA,20.649999618530277,0,1,0.0017332059371666145,0,Two year,Low Risk,Standard retention monitoring
+1386-ZIKUV,18.950000762939453,0,0,0.31425921749119734,0,Month-to-month,Low Risk,Standard retention monitoring
+3365-SAIGS,83.55000305175781,0,0,0.7021559156245951,1,Month-to-month,High Risk,Offer contract upgrade discount
+6061-GWWAV,70.19999694824219,1,0,0.026233709684862327,0,One year,Low Risk,Standard retention monitoring
+9979-RGMZT,94.0500030517578,1,0,0.4612457575397659,0,One year,Medium Risk,Offer targeted discount
+8445-DNBAE,50.04999923706055,0,0,0.6233191247727761,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6872-HXFNF,58.34999847412109,1,0,0.05175394470211643,0,One year,Low Risk,Standard retention monitoring
+1320-HTRDR,75.5,0,0,0.8501092057212175,1,Month-to-month,High Risk,Offer contract upgrade discount
+3923-CSIHK,71.05000305175781,0,0,0.4822932695993303,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2446-ZKVAF,56.79999923706055,0,0,0.30088986639895776,0,Month-to-month,Low Risk,Standard retention monitoring
+4640-UHDOS,55.95000076293945,0,0,0.4978300537847927,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5457-COLHT,80.6500015258789,0,1,0.013919671879421358,0,Two year,Low Risk,Standard retention monitoring
+2254-DLXRI,79.1500015258789,0,0,0.6810485140036809,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5339-PXDVH,90.6500015258789,0,0,0.7322416845602346,1,Month-to-month,High Risk,Offer contract upgrade discount
+2386-LAHRK,53.5,0,0,0.6526445089135843,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5062-CJJKH,53.650001525878906,1,0,0.04556719507432095,0,One year,Low Risk,Standard retention monitoring
+8930-XOTDP,55.95000076293945,0,0,0.34917982152572574,0,Month-to-month,Low Risk,Standard retention monitoring
+4779-ZGICK,23.549999237060547,0,1,0.0042336180685812776,0,Two year,Low Risk,Standard retention monitoring
+9534-NSXEM,20.649999618530277,1,0,0.05451437925904552,0,One year,Low Risk,Standard retention monitoring
+3716-BDVDB,69.0999984741211,0,0,0.8470471461142849,1,Month-to-month,High Risk,Offer contract upgrade discount
+9842-EFSYY,57.20000076293945,0,0,0.24124800302243082,0,Month-to-month,Low Risk,Standard retention monitoring
+9122-UMROB,20.299999237060547,0,0,0.3998044341077103,0,Month-to-month,Low Risk,Standard retention monitoring
+1867-BDVFH,74.3499984741211,0,0,0.6585812789146065,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5949-EBSQK,61.45000076293945,0,0,0.28143940899905906,0,Month-to-month,Low Risk,Standard retention monitoring
+4160-AMJTL,19.649999618530277,0,0,0.348689060144132,0,Month-to-month,Low Risk,Standard retention monitoring
+8622-ZLFKO,90.75,0,0,0.734797464551926,1,Month-to-month,High Risk,Offer contract upgrade discount
+2990-IAJSV,92.0,0,1,0.03600665177750437,0,Two year,Low Risk,Standard retention monitoring
+6064-ZATLR,52.84999847412109,0,1,0.07162841148560246,0,Two year,Low Risk,Standard retention monitoring
+7409-KIUTL,71.0,0,0,0.7408959659918137,1,Month-to-month,High Risk,Offer contract upgrade discount
+5505-OVWQW,20.149999618530277,1,0,0.09069796847407548,0,One year,Low Risk,Standard retention monitoring
+3948-KXDUF,68.75,0,1,0.011581535582617576,0,Two year,Low Risk,Standard retention monitoring
+9814-AOUDH,19.5,0,1,0.006010555822259164,0,Two year,Low Risk,Standard retention monitoring
+7398-LXGYX,20.149999618530277,0,1,0.015458541823103963,0,Two year,Low Risk,Standard retention monitoring
+5266-PFRQK,20.850000381469727,1,0,0.006296833939066195,0,One year,Low Risk,Standard retention monitoring
+1568-BEKZM,90.05000305175781,0,1,0.006107495962944523,0,Two year,Low Risk,Standard retention monitoring
+2692-PFYTJ,25.75,0,0,0.41061400255190295,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2533-QVMSK,94.0999984741211,0,1,0.08049874632764722,0,Two year,Low Risk,Standard retention monitoring
+5828-AVIPD,100.9499969482422,1,0,0.32478910192706406,0,One year,Low Risk,Standard retention monitoring
+2907-ILJBN,20.600000381469727,1,0,0.057491844819861714,0,One year,Low Risk,Standard retention monitoring
+5226-NOZFC,85.75,0,0,0.6966140162580448,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7114-AEOZE,19.850000381469727,0,1,0.012753410817488021,0,Two year,Low Risk,Standard retention monitoring
+2202-CUYXZ,84.8499984741211,0,0,0.825627971256651,1,Month-to-month,High Risk,Offer contract upgrade discount
+3466-RITXD,92.4000015258789,0,0,0.34474380786879105,0,Month-to-month,Low Risk,Standard retention monitoring
+7278-CKDNC,80.5,0,0,0.6457767651842816,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1956-YIFGE,100.0500030517578,1,0,0.1933111818373683,0,One year,Low Risk,Standard retention monitoring
+0422-UXFAP,98.8499984741211,1,0,0.4095969063777541,0,One year,Medium Risk,Offer targeted discount
+3733-UOCWF,85.55000305175781,1,0,0.1693526970416837,0,One year,Low Risk,Standard retention monitoring
+7191-ADRGF,54.29999923706055,0,1,0.10125450968364365,0,Two year,Low Risk,Standard retention monitoring
+5709-LVOEQ,80.8499984741211,0,1,0.03438354430740163,0,Two year,Low Risk,Standard retention monitoring
+6034-YMTOB,75.6500015258789,0,0,0.6495531664333859,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6372-RFVNS,78.80000305175781,0,0,0.8133644278376241,1,Month-to-month,High Risk,Offer contract upgrade discount
+9052-DHNKM,61.54999923706055,1,0,0.10720774292354063,0,One year,Low Risk,Standard retention monitoring
+5609-IMCGG,84.3499984741211,0,0,0.446887353189293,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2959-MJHIC,80.3499984741211,0,0,0.8174857067026939,1,Month-to-month,High Risk,Offer contract upgrade discount
+1319-YLZJG,84.5999984741211,0,0,0.3852425426632718,0,Month-to-month,Low Risk,Standard retention monitoring
+7623-TRNQN,49.900001525878906,0,0,0.35336869341671,0,Month-to-month,Low Risk,Standard retention monitoring
+0377-JBKKT,57.95000076293945,0,0,0.04421982496685053,0,Month-to-month,Low Risk,Standard retention monitoring
+1936-CZAKF,49.650001525878906,0,1,0.035131355021813304,0,Two year,Low Risk,Standard retention monitoring
+5063-IUOKK,19.75,0,1,0.05552886808856591,0,Two year,Low Risk,Standard retention monitoring
+8646-JCOMS,90.5500030517578,1,0,0.17989809126893602,0,One year,Low Risk,Standard retention monitoring
+0947-MUGVO,93.4000015258789,0,1,0.08563585263162031,0,Two year,Low Risk,Standard retention monitoring
+1525-LNLOJ,63.29999923706055,0,1,0.0368073772411625,0,Two year,Low Risk,Standard retention monitoring
+5759-RCVCB,35.20000076293945,0,0,0.7084880354378899,1,Month-to-month,High Risk,Offer contract upgrade discount
+9968-FFVVH,68.80000305175781,1,0,0.023732668647841428,0,One year,Low Risk,Standard retention monitoring
+2266-FUBDZ,19.350000381469727,0,1,0.021741010797688844,0,Two year,Low Risk,Standard retention monitoring
+4760-THGOT,94.0999984741211,0,0,0.40648756072507686,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2307-FYNNL,109.0500030517578,0,1,0.09185882386417975,0,Two year,Low Risk,Standard retention monitoring
+1143-NMNQJ,85.69999694824219,0,0,0.8746695297039696,1,Month-to-month,High Risk,Offer contract upgrade discount
+1629-DQQVB,50.09999847412109,0,0,0.5716291183545492,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3766-EJLFL,109.0500030517578,0,1,0.09098177529879939,0,Two year,Low Risk,Standard retention monitoring
+8457-XIGKN,19.600000381469727,0,0,0.1677491229688474,0,Month-to-month,Low Risk,Standard retention monitoring
+4981-FLTMF,65.19999694824219,0,0,0.04962121575578555,0,Month-to-month,Low Risk,Standard retention monitoring
+7606-BPHHN,19.799999237060547,0,1,0.0023548647757720776,0,Two year,Low Risk,Standard retention monitoring
+7005-CCBKV,84.4000015258789,0,0,0.7833500094609465,1,Month-to-month,High Risk,Offer contract upgrade discount
+4648-YPBTM,73.9000015258789,0,1,0.05371884261971495,0,Two year,Low Risk,Standard retention monitoring
+2325-ZUSFD,70.0999984741211,1,0,0.08297709764911479,0,One year,Low Risk,Standard retention monitoring
+1240-KNSEZ,20.100000381469727,0,0,0.401777245546705,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0430-IHCDJ,49.0,0,0,0.6126428026932744,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7957-RYHQD,79.19999694824219,0,0,0.21601717576370388,0,Month-to-month,Low Risk,Standard retention monitoring
+6164-HAQTX,53.95000076293945,0,1,0.010963996970162555,0,Two year,Low Risk,Standard retention monitoring
+0749-IRGQE,45.29999923706055,0,0,0.6614190801672933,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1227-UDMZR,91.1500015258789,0,1,0.026350926582540686,0,Two year,Low Risk,Standard retention monitoring
+5473-KHBPS,95.6999969482422,1,0,0.10750260813147604,0,One year,Low Risk,Standard retention monitoring
+5297-MDOIR,81.1500015258789,1,0,0.07674210509886507,0,One year,Low Risk,Standard retention monitoring
+8873-TMKGR,19.100000381469727,1,0,0.04628379901172794,0,One year,Low Risk,Standard retention monitoring
+6481-ESCNL,100.5500030517578,0,0,0.8770154895423281,1,Month-to-month,High Risk,Offer contract upgrade discount
+0463-WZZKO,20.75,0,0,0.35022251702173784,0,Month-to-month,Low Risk,Standard retention monitoring
+1038-RQOST,20.600000381469727,0,0,0.10477457240160916,0,Month-to-month,Low Risk,Standard retention monitoring
+4937-QPZPO,99.9000015258789,1,0,0.30898172958859144,0,One year,Low Risk,Standard retention monitoring
+3604-WLABM,54.25,0,0,0.42653808433930324,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1360-XFJMR,109.6999969482422,1,0,0.12948109242063283,0,One year,Low Risk,Standard retention monitoring
+8717-VCTXJ,19.549999237060547,1,0,0.025668339324945,0,One year,Low Risk,Standard retention monitoring
+5196-SGOAK,75.69999694824219,0,0,0.7784243511456751,1,Month-to-month,High Risk,Offer contract upgrade discount
+8739-XNIKG,84.0,0,0,0.8488692635913297,1,Month-to-month,High Risk,Offer contract upgrade discount
+2320-TZRRH,19.5,1,0,0.07564530658608014,0,One year,Low Risk,Standard retention monitoring
+5186-SAMNZ,69.5,0,0,0.88802593017083,1,Month-to-month,High Risk,Offer contract upgrade discount
+5760-FXFVO,78.94999694824219,0,0,0.5599749647413242,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5380-WJKOV,106.3499984741211,0,0,0.7186234422417984,1,Month-to-month,High Risk,Offer contract upgrade discount
+4703-MQYKT,19.600000381469727,0,1,0.03622110060001512,0,Two year,Low Risk,Standard retention monitoring
+2001-MCUUW,108.6500015258789,0,1,0.14778014410041515,0,Two year,Low Risk,Standard retention monitoring
+4947-DSMXK,97.6999969482422,0,0,0.6701965100424175,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0076-LVEPS,19.75,0,1,0.0016989658115156344,0,Two year,Low Risk,Standard retention monitoring
+5566-SOEZD,80.6500015258789,1,0,0.07083110312073472,0,One year,Low Risk,Standard retention monitoring
+7408-OFWXJ,92.0,0,1,0.009669141050655146,0,Two year,Low Risk,Standard retention monitoring
+1097-FSPVW,54.54999923706055,0,0,0.11512166713360389,0,Month-to-month,Low Risk,Standard retention monitoring
+4412-YLTKF,78.05000305175781,0,0,0.6334380724548888,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0420-TXVSG,66.0999984741211,0,1,0.0063156065366645085,0,Two year,Low Risk,Standard retention monitoring
+7817-BOQPW,75.55000305175781,0,0,0.8563012195357234,1,Month-to-month,High Risk,Offer contract upgrade discount
+0963-ZBDRN,96.1999969482422,0,0,0.7369918576308641,1,Month-to-month,High Risk,Offer contract upgrade discount
+9685-WKZGT,74.94999694824219,0,0,0.7684012131838234,1,Month-to-month,High Risk,Offer contract upgrade discount
+2139-FQHLM,89.94999694824219,0,0,0.5305185368739651,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5825-XJOCM,64.4000015258789,1,0,0.042534457867607955,0,One year,Low Risk,Standard retention monitoring
+0004-TLHLJ,73.9000015258789,0,0,0.7892909011890228,1,Month-to-month,High Risk,Offer contract upgrade discount
+7529-ZDFXI,89.8499984741211,0,0,0.446824365957981,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6848-YLDFR,75.19999694824219,1,0,0.021639090968569023,0,One year,Low Risk,Standard retention monitoring
+5820-PTRYM,68.44999694824219,1,0,0.0067439218712383306,0,One year,Low Risk,Standard retention monitoring
+2984-RGEYA,19.75,0,1,0.0036060030754222427,0,Two year,Low Risk,Standard retention monitoring
+6434-TTGJP,53.70000076293945,0,1,0.013218142347921265,0,Two year,Low Risk,Standard retention monitoring
+9643-AVVWI,80.0,0,0,0.4157119916946849,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3506-OVLKD,26.200000762939453,1,0,0.11046468074229686,0,One year,Low Risk,Standard retention monitoring
+4946-EDSEW,19.25,0,0,0.1390771528995882,0,Month-to-month,Low Risk,Standard retention monitoring
+2924-KHUVI,100.5500030517578,1,0,0.3041141712607433,0,One year,Low Risk,Standard retention monitoring
+2263-SFSQZ,24.950000762939453,0,1,0.003948909248205907,0,Two year,Low Risk,Standard retention monitoring
+5281-BUZGT,90.8499984741211,0,0,0.5561923411536991,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3717-FDJFU,20.450000762939453,0,1,0.0517874534542228,0,Two year,Low Risk,Standard retention monitoring
+2239-CFOUJ,20.399999618530277,1,0,0.09184989231363931,0,One year,Low Risk,Standard retention monitoring
+8699-ASUFO,74.4000015258789,0,0,0.6545015044715878,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1122-YJBCS,53.650001525878906,1,0,0.00914221852366518,0,One year,Low Risk,Standard retention monitoring
+0628-CNQRM,67.5,1,0,0.06346969426899413,0,One year,Low Risk,Standard retention monitoring
+1705-GUHPV,24.200000762939453,0,1,0.004935471784476529,0,Two year,Low Risk,Standard retention monitoring
+4877-TSOFF,75.75,1,0,0.03278498723657248,0,One year,Low Risk,Standard retention monitoring
+7404-JLKQG,57.54999923706055,0,0,0.6464570213586343,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0379-DJQHR,81.3499984741211,0,1,0.007253322709119357,0,Two year,Low Risk,Standard retention monitoring
+8993-PHFWD,25.25,0,0,0.7920250957846677,1,Month-to-month,High Risk,Offer contract upgrade discount
+3930-ZGWVE,19.75,0,0,0.39258689389684076,0,Month-to-month,Low Risk,Standard retention monitoring
+1965-DDBWU,89.05000305175781,0,0,0.591784809206252,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7572-KPVKK,104.0500030517578,0,1,0.13730564850897697,0,Two year,Low Risk,Standard retention monitoring
+6854-EXGSF,65.5,0,0,0.4502120925977377,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9483-GCPWE,20.100000381469727,1,0,0.08152993280549406,0,One year,Low Risk,Standard retention monitoring
+8053-WWDRO,19.5,0,0,0.4981757852443096,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9473-CBZOP,59.0,1,0,0.07520970396255637,0,One year,Low Risk,Standard retention monitoring
+3985-HOYPM,19.399999618530277,1,0,0.056169515444050404,0,One year,Low Risk,Standard retention monitoring
+8378-LKJAF,101.1500015258789,0,0,0.5084633437843861,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1310-QRITU,50.29999923706055,0,0,0.6044330508129749,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3237-AJGEH,31.0,0,0,0.37543931369368355,0,Month-to-month,Low Risk,Standard retention monitoring
+6542-LWGXJ,25.0,0,0,0.6522252201463707,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6953-PBDIN,72.94999694824219,0,1,0.02399159209120357,0,Two year,Low Risk,Standard retention monitoring
+6332-FBZRI,69.3499984741211,1,0,0.003647800586132845,0,One year,Low Risk,Standard retention monitoring
+9365-CSLBQ,24.350000381469727,0,1,0.001805191710548586,0,Two year,Low Risk,Standard retention monitoring
+3466-WAESX,69.0999984741211,0,0,0.2358707990989554,0,Month-to-month,Low Risk,Standard retention monitoring
+9700-ISPUP,65.5,0,0,0.24527790820465928,0,Month-to-month,Low Risk,Standard retention monitoring
+5167-ZFFMM,90.8499984741211,0,0,0.70250257990913,1,Month-to-month,High Risk,Offer contract upgrade discount
+7669-LCRSD,56.29999923706055,0,0,0.38952830616956335,0,Month-to-month,Low Risk,Standard retention monitoring
+0870-VEMYL,53.84999847412109,0,0,0.21837891357112246,0,Month-to-month,Low Risk,Standard retention monitoring
+2995-UPRYS,99.1999969482422,1,0,0.13688979374557866,0,One year,Low Risk,Standard retention monitoring
+3179-GBRWV,64.94999694824219,0,0,0.3229751662410017,0,Month-to-month,Low Risk,Standard retention monitoring
+0701-TJSEF,68.25,0,0,0.40675782074939887,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1848-LBZHY,50.29999923706055,0,0,0.5689795983085021,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5380-XPJNZ,20.049999237060547,1,0,0.03037661169551023,0,One year,Low Risk,Standard retention monitoring
+6608-QQLVK,50.5,0,0,0.6827815628227969,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1475-VWVDO,74.9000015258789,0,0,0.7845316344416216,1,Month-to-month,High Risk,Offer contract upgrade discount
+3721-CNEYS,70.94999694824219,0,0,0.8559571993652517,1,Month-to-month,High Risk,Offer contract upgrade discount
+4299-OPXEJ,19.549999237060547,0,1,0.01599829615305195,0,Two year,Low Risk,Standard retention monitoring
+0096-BXERS,50.34999847412109,0,0,0.6359232726067828,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3055-VTCGS,58.54999923706055,1,0,0.049214850581214484,0,One year,Low Risk,Standard retention monitoring
+9405-GPBBG,110.5,0,1,0.09730351203898172,0,Two year,Low Risk,Standard retention monitoring
+6704-UTUKK,45.900001525878906,0,0,0.5907652851584044,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9944-AEXBM,85.6500015258789,0,0,0.8695221834823426,1,Month-to-month,High Risk,Offer contract upgrade discount
+2545-EBUPK,84.05000305175781,0,0,0.8375559731020829,1,Month-to-month,High Risk,Offer contract upgrade discount
+6270-OMFIW,94.4000015258789,1,0,0.3078531721091269,0,One year,Low Risk,Standard retention monitoring
+1852-XEMDW,65.05000305175781,0,0,0.1573539318068629,0,Month-to-month,Low Risk,Standard retention monitoring
+8158-WPEZG,35.650001525878906,0,0,0.46034382423394604,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5198-EFNBM,90.6500015258789,1,0,0.19034633060864967,0,One year,Low Risk,Standard retention monitoring
+7663-RGWBC,44.150001525878906,0,0,0.6390882906389019,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3970-XGJDU,19.200000762939453,0,1,0.0035651658255444725,0,Two year,Low Risk,Standard retention monitoring
+6845-RGTYS,98.75,0,0,0.3100582619131864,0,Month-to-month,Low Risk,Standard retention monitoring
+0123-CRBRT,88.0999984741211,0,1,0.005572969265000065,0,Two year,Low Risk,Standard retention monitoring
+6077-BDPXA,70.1500015258789,0,0,0.8455848491939716,1,Month-to-month,High Risk,Offer contract upgrade discount
+2250-IVBWA,81.05000305175781,0,0,0.14484275320316237,0,Month-to-month,Low Risk,Standard retention monitoring
+6137-NICCO,94.0500030517578,0,0,0.4055720142654743,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8129-GMVGI,20.049999237060547,0,1,0.0026730308816919224,0,Two year,Low Risk,Standard retention monitoring
+4353-HYOJD,49.84999847412109,0,0,0.14705731378463816,0,Month-to-month,Low Risk,Standard retention monitoring
+8671-KKKOS,45.54999923706055,0,0,0.13082243413510367,0,Month-to-month,Low Risk,Standard retention monitoring
+8080-DDEMJ,45.09999847412109,0,0,0.6867451369539236,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6698-OXETB,20.399999618530277,0,1,0.0635224262173093,0,Two year,Low Risk,Standard retention monitoring
+3312-UUMZW,98.8499984741211,0,0,0.5375815340974115,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6376-GAHQE,77.8499984741211,0,0,0.8374847626275643,1,Month-to-month,High Risk,Offer contract upgrade discount
+0733-VUNUW,55.650001525878906,0,0,0.5158551568370241,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6733-LRIZX,108.9499969482422,0,1,0.14898022691716276,0,Two year,Low Risk,Standard retention monitoring
+2165-VOEGB,105.1999969482422,1,0,0.1878620067643858,0,One year,Low Risk,Standard retention monitoring
+1853-UDXBW,70.0,0,0,0.7171030390567895,1,Month-to-month,High Risk,Offer contract upgrade discount
+9070-BCKQP,110.1500015258789,0,1,0.051463090549254326,0,Two year,Low Risk,Standard retention monitoring
+7203-OYKCT,20.649999618530277,0,1,0.02195540956014093,0,Two year,Low Risk,Standard retention monitoring
+2057-ZBLPD,86.5,0,0,0.7909069171916359,1,Month-to-month,High Risk,Offer contract upgrade discount
+6967-PEJLL,40.20000076293945,1,0,0.02367823942640409,0,One year,Low Risk,Standard retention monitoring
+7879-CGSFV,100.9000015258789,1,0,0.2004242054690281,0,One year,Low Risk,Standard retention monitoring
+2257-BOVXD,66.5999984741211,0,0,0.33530357530630944,0,Month-to-month,Low Risk,Standard retention monitoring
+9822-BIIGN,71.8499984741211,0,0,0.08263240019572245,0,Month-to-month,Low Risk,Standard retention monitoring
+1136-XGEQU,84.1500015258789,1,0,0.023345065183551974,0,One year,Low Risk,Standard retention monitoring
+2439-LYPMQ,102.5999984741211,0,0,0.5475106528246517,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6543-XRMYR,99.6999969482422,0,0,0.7040388475159178,1,Month-to-month,High Risk,Offer contract upgrade discount
+5753-QQWPW,59.900001525878906,1,0,0.04906709088198746,0,One year,Low Risk,Standard retention monitoring
+4785-QRJHC,59.900001525878906,1,0,0.09560223222150716,0,One year,Low Risk,Standard retention monitoring
+0052-YNYOT,44.400001525878906,0,0,0.7768030736367455,1,Month-to-month,High Risk,Offer contract upgrade discount
+7054-LGEQW,45.95000076293945,0,0,0.6572280004477831,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0608-JDVEC,19.799999237060547,0,1,0.009452490859714387,0,Two year,Low Risk,Standard retention monitoring
+6284-KMNUF,98.0,1,0,0.2511494716046125,0,One year,Low Risk,Standard retention monitoring
+6286-SUUWT,19.950000762939453,0,0,0.3952062211481027,0,Month-to-month,Low Risk,Standard retention monitoring
+3594-KADLU,35.099998474121094,0,0,0.29545757058092714,0,Month-to-month,Low Risk,Standard retention monitoring
+0536-ACXIP,109.5500030517578,0,1,0.11053233686612796,0,Two year,Low Risk,Standard retention monitoring
+8869-TORSS,60.34999847412109,1,0,0.02023049821415426,0,One year,Low Risk,Standard retention monitoring
+0373-AIVNJ,39.54999923706055,1,0,0.11441695229638707,0,One year,Low Risk,Standard retention monitoring
+6429-SHBCB,69.5999984741211,0,0,0.5954739086994904,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5751-USDBL,81.0,0,1,0.012210407854581789,0,Two year,Low Risk,Standard retention monitoring
+7343-EOBEU,107.25,1,0,0.2936375549816662,0,One year,Low Risk,Standard retention monitoring
+9450-TRJUU,83.1500015258789,0,0,0.7328724754756167,1,Month-to-month,High Risk,Offer contract upgrade discount
+2805-AUFQN,19.799999237060547,0,1,0.025747443833387187,0,Two year,Low Risk,Standard retention monitoring
+7855-DIWPO,68.6500015258789,0,0,0.7615319827147587,1,Month-to-month,High Risk,Offer contract upgrade discount
+0174-QRVVY,25.350000381469727,0,1,0.001337113289467165,0,Two year,Low Risk,Standard retention monitoring
+9507-EXLTT,79.3499984741211,0,0,0.890103590315087,1,Month-to-month,High Risk,Offer contract upgrade discount
+8390-FESFV,84.5,0,1,0.06272631764367755,0,Two year,Low Risk,Standard retention monitoring
+0661-KBKPA,78.75,1,0,0.033616376147194336,0,One year,Low Risk,Standard retention monitoring
+6856-RAURS,74.9000015258789,0,0,0.7862831798207649,1,Month-to-month,High Risk,Offer contract upgrade discount
+7322-OCWHC,93.0500030517578,0,1,0.02946962575823491,0,Two year,Low Risk,Standard retention monitoring
+2203-GHNWN,79.6500015258789,0,0,0.5589407359122538,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3413-CSSTH,55.70000076293945,0,0,0.4878912704465332,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3006-XIMLN,94.1999969482422,0,0,0.8814395505188354,1,Month-to-month,High Risk,Offer contract upgrade discount
+3750-CKVKH,67.75,0,0,0.8303736639466838,1,Month-to-month,High Risk,Offer contract upgrade discount
+0576-WNXXC,95.5500030517578,0,0,0.5454863083593563,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7056-IMHCC,101.9000015258789,0,0,0.6369311946704881,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0866-QLSIR,64.4000015258789,1,0,0.02752471775389794,0,One year,Low Risk,Standard retention monitoring
+1628-BIZYP,85.0,0,0,0.7992343584872111,1,Month-to-month,High Risk,Offer contract upgrade discount
+2230-XTUWL,19.549999237060547,0,1,0.00385664174133882,0,Two year,Low Risk,Standard retention monitoring
+5482-NUPNA,104.5,0,0,0.534227369640233,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8619-IJNDK,64.05000305175781,0,1,0.0012428924005459595,0,Two year,Low Risk,Standard retention monitoring
+2960-NKRSO,85.94999694824219,0,0,0.47025928266318506,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6705-LXORM,70.05000305175781,0,0,0.7442978153168402,1,Month-to-month,High Risk,Offer contract upgrade discount
+7130-VTEWQ,75.75,0,0,0.8023400923116402,1,Month-to-month,High Risk,Offer contract upgrade discount
+9364-YKUVW,19.799999237060547,0,0,0.24186390473135555,0,Month-to-month,Low Risk,Standard retention monitoring
+2761-OCIAX,74.69999694824219,0,0,0.7234441675372387,1,Month-to-month,High Risk,Offer contract upgrade discount
+7996-BPXHY,25.0,0,1,0.06815563299185307,0,Two year,Low Risk,Standard retention monitoring
+4248-QPAVC,85.3499984741211,0,0,0.5995313719848133,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9357-UJRUN,58.34999847412109,1,0,0.062321436632771836,0,One year,Low Risk,Standard retention monitoring
+6340-DACFT,20.549999237060547,0,1,0.0033895599638697864,0,Two year,Low Risk,Standard retention monitoring
+1023-BQXZE,74.3499984741211,0,1,0.0822654580748499,0,Two year,Low Risk,Standard retention monitoring
+5480-HPRRX,25.299999237060547,0,0,0.7546963255787625,1,Month-to-month,High Risk,Offer contract upgrade discount
+9576-SYUHJ,91.1500015258789,0,0,0.6243447605342447,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2169-RRLFW,25.600000381469727,0,1,0.0023539179867360796,0,Two year,Low Risk,Standard retention monitoring
+8338-QIUNR,66.5,0,1,0.0027525386800639905,0,Two year,Low Risk,Standard retention monitoring
+0463-TXOAK,25.600000381469727,0,1,0.004606366041756914,0,Two year,Low Risk,Standard retention monitoring
+4396-KLSEH,19.850000381469727,0,0,0.45791861774147363,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5186-EJEGL,69.5,0,0,0.2117044180519499,0,Month-to-month,Low Risk,Standard retention monitoring
+9334-GWGOW,74.8499984741211,0,0,0.7403099131387623,1,Month-to-month,High Risk,Offer contract upgrade discount
+5696-JVVQY,70.0999984741211,0,1,0.006918400322891653,0,Two year,Low Risk,Standard retention monitoring
+9633-DENPU,58.59999847412109,0,0,0.32112135125123864,0,Month-to-month,Low Risk,Standard retention monitoring
+0581-BXBUB,72.75,0,0,0.6871803599706877,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2750-BJLSB,103.6999969482422,1,0,0.19055182942226118,0,One year,Low Risk,Standard retention monitoring
+2770-NSVDG,29.100000381469727,0,0,0.42362627841471057,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8280-MQRQN,50.45000076293945,0,0,0.5866116116067154,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7851-FLGGQ,44.650001525878906,0,0,0.4900451356802243,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9374-YOLBJ,19.25,0,0,0.2929965999568806,0,Month-to-month,Low Risk,Standard retention monitoring
+6583-SZVGP,108.0999984741211,0,1,0.4315135627464586,0,Two year,Medium Risk,Offer targeted discount
+2150-OEGBV,20.100000381469727,1,0,0.13668440418745434,0,One year,Low Risk,Standard retention monitoring
+9372-TXXPS,59.84999847412109,0,1,0.010954489071154842,0,Two year,Low Risk,Standard retention monitoring
+6933-FHBZC,56.04999923706055,1,0,0.11712781795208392,0,One year,Low Risk,Standard retention monitoring
+4698-KVLLG,19.600000381469727,0,1,0.005199655068242167,0,Two year,Low Risk,Standard retention monitoring
+8752-STIVR,79.0,0,0,0.8485307450178763,1,Month-to-month,High Risk,Offer contract upgrade discount
+8623-ULFNQ,66.05000305175781,0,0,0.39487497591401355,0,Month-to-month,Low Risk,Standard retention monitoring
+9822-WMWVG,106.5,0,0,0.312027600735972,0,Month-to-month,Low Risk,Standard retention monitoring
+4304-TSPVK,114.9000015258789,0,1,0.10722363823107668,0,Two year,Low Risk,Standard retention monitoring
+1716-LSAMB,54.650001525878906,0,1,0.01748626997337955,0,Two year,Low Risk,Standard retention monitoring
+3523-QRQLL,69.5,1,0,0.23305742591606105,0,One year,Low Risk,Standard retention monitoring
+2187-PKZAY,79.94999694824219,0,0,0.9089617762357034,1,Month-to-month,High Risk,Offer contract upgrade discount
+1895-QTKDO,43.95000076293945,0,0,0.5951355045035661,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8161-QYMTT,94.0999984741211,0,0,0.8711227774859686,1,Month-to-month,High Risk,Offer contract upgrade discount
+2955-PSXOE,20.200000762939453,0,0,0.6437569114793785,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6834-NXDCA,23.899999618530277,0,0,0.6869716766136758,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8701-DGLVH,20.450000762939453,0,1,0.00832754028185298,0,Two year,Low Risk,Standard retention monitoring
+2480-SQIOB,44.79999923706055,0,0,0.5108970190755889,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4993-JCRGJ,84.30000305175781,0,0,0.47166212154248915,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0581-MDMPW,88.94999694824219,0,0,0.6225923760059284,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7789-CRUVC,94.1999969482422,0,0,0.07341885929446876,0,Month-to-month,Low Risk,Standard retention monitoring
+0164-APGRB,114.9000015258789,0,1,0.09215893244212507,0,Two year,Low Risk,Standard retention monitoring
+8034-RYTVV,84.25,1,0,0.10737219060976558,0,One year,Low Risk,Standard retention monitoring
+3018-TFTSU,81.69999694824219,0,0,0.7279390125258881,1,Month-to-month,High Risk,Offer contract upgrade discount
+9777-IQHWP,19.799999237060547,1,0,0.04769066150530778,0,One year,Low Risk,Standard retention monitoring
+6899-PPEEA,96.5500030517578,0,0,0.8000638874112288,1,Month-to-month,High Risk,Offer contract upgrade discount
+6701-YVNQG,88.69999694824219,0,1,0.006329442098096251,0,Two year,Low Risk,Standard retention monitoring
+7649-PHJVR,19.5,1,0,0.11620499999427197,0,One year,Low Risk,Standard retention monitoring
+9278-VZKCD,109.0999984741211,0,0,0.3540354929096482,0,Month-to-month,Low Risk,Standard retention monitoring
+7636-PEPNS,44.09999847412109,1,0,0.02437556358029663,0,One year,Low Risk,Standard retention monitoring
+1575-KRZZE,55.20000076293945,0,0,0.39056168785538337,0,Month-to-month,Low Risk,Standard retention monitoring
+8590-OHDIW,20.299999237060547,1,0,0.014168740830761454,0,One year,Low Risk,Standard retention monitoring
+7764-BDPEE,20.850000381469727,0,0,0.266239455265541,0,Month-to-month,Low Risk,Standard retention monitoring
+9480-BQJEI,92.3000030517578,1,0,0.2624528627390359,0,One year,Low Risk,Standard retention monitoring
+3354-OADJP,54.25,1,0,0.22086116633418693,0,One year,Low Risk,Standard retention monitoring
+3181-MIZBN,19.75,0,0,0.16204012571546308,0,Month-to-month,Low Risk,Standard retention monitoring
+9327-QSDED,43.54999923706055,0,0,0.5566051508900909,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4892-VLANZ,19.799999237060547,0,0,0.3932411408346014,0,Month-to-month,Low Risk,Standard retention monitoring
+0298-XACET,50.20000076293945,0,1,0.0072799483308038,0,Two year,Low Risk,Standard retention monitoring
+6917-FIJHC,26.0,0,1,0.0025358185453071844,0,Two year,Low Risk,Standard retention monitoring
+6557-BZXLQ,69.6500015258789,0,0,0.7387022682746697,1,Month-to-month,High Risk,Offer contract upgrade discount
+2432-TFSMK,89.5999984741211,1,0,0.409315519245954,0,One year,Medium Risk,Offer targeted discount
+4211-MMAZN,20.25,0,0,0.39914645086993156,0,Month-to-month,Low Risk,Standard retention monitoring
+4751-ERMAN,75.4000015258789,0,1,0.037102125353072585,0,Two year,Low Risk,Standard retention monitoring
+8430-TWCBX,20.700000762939453,1,0,0.012268183493660026,0,One year,Low Risk,Standard retention monitoring
+1942-OQFRW,44.0,0,0,0.7226933121833305,1,Month-to-month,High Risk,Offer contract upgrade discount
+4075-JFPGR,93.5,1,0,0.11115912839595798,0,One year,Low Risk,Standard retention monitoring
+3339-EAQNV,97.25,1,0,0.15356198892933257,0,One year,Low Risk,Standard retention monitoring
+5329-KRDTM,77.3499984741211,0,1,0.007356763069252055,0,Two year,Low Risk,Standard retention monitoring
+0307-BCOPK,19.049999237060547,1,0,0.08987294404870494,0,One year,Low Risk,Standard retention monitoring
+6473-ULUHT,84.9000015258789,0,0,0.13200321344523414,0,Month-to-month,Low Risk,Standard retention monitoring
+1194-SPVSP,19.649999618530277,0,0,0.6323590552591568,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7249-WBIYX,85.5999984741211,0,0,0.8009128603199209,1,Month-to-month,High Risk,Offer contract upgrade discount
+2293-IJWPS,100.75,1,0,0.3375774482574377,0,One year,Low Risk,Standard retention monitoring
+4377-VDHYI,90.8000030517578,1,0,0.15000524097229456,0,One year,Low Risk,Standard retention monitoring
+0019-EFAEP,101.3000030517578,0,1,0.1489589907011388,0,Two year,Low Risk,Standard retention monitoring
+2480-EJWYP,97.8000030517578,1,0,0.3736452225923682,0,One year,Low Risk,Standard retention monitoring
+8970-ANWXO,73.75,1,0,0.18916518314423653,0,One year,Low Risk,Standard retention monitoring
+8739-WWKDU,89.5,0,0,0.649784515169163,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2171-UDMFD,19.450000762939453,0,0,0.04627612160657164,0,Month-to-month,Low Risk,Standard retention monitoring
+7036-TYDEC,104.0,0,1,0.17523467605057913,0,Two year,Low Risk,Standard retention monitoring
+3831-YCPUO,109.5,0,1,0.01732363904552702,0,Two year,Low Risk,Standard retention monitoring
+0121-SNYRK,35.400001525878906,1,0,0.024179639013788928,0,One year,Low Risk,Standard retention monitoring
+3325-FUYCG,106.0999984741211,1,0,0.18268202258271252,0,One year,Low Risk,Standard retention monitoring
+1952-DVVSW,20.100000381469727,1,0,0.09470514827501723,0,One year,Low Risk,Standard retention monitoring
+3571-DPYUH,94.6999969482422,1,0,0.062425987052328456,0,One year,Low Risk,Standard retention monitoring
+2077-MPJQO,75.4000015258789,0,0,0.7520152922169642,1,Month-to-month,High Risk,Offer contract upgrade discount
+2391-SOORI,49.34999847412109,0,0,0.3842971607159704,0,Month-to-month,Low Risk,Standard retention monitoring
+4086-ATNFV,60.79999923706055,1,0,0.01894977445508095,0,One year,Low Risk,Standard retention monitoring
+3396-DKDEL,115.1500015258789,0,1,0.024718474705496356,0,Two year,Low Risk,Standard retention monitoring
+9863-JZAIC,19.899999618530277,0,0,0.3991431094267958,0,Month-to-month,Low Risk,Standard retention monitoring
+7181-OQCUT,103.8499984741211,0,0,0.5574442957746584,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3489-VSFRD,60.25,1,0,0.014889290551873597,0,One year,Low Risk,Standard retention monitoring
+6283-GITPX,76.9000015258789,0,1,0.003676740291475661,0,Two year,Low Risk,Standard retention monitoring
+2845-HSJCY,87.25,0,0,0.6070287378483954,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7216-KAOID,19.5,1,0,0.030357783144916557,0,One year,Low Risk,Standard retention monitoring
+6680-WKXRZ,74.4000015258789,0,0,0.902372051855661,1,Month-to-month,High Risk,Offer contract upgrade discount
+2346-LOCWC,20.5,0,1,0.0021796453604764204,0,Two year,Low Risk,Standard retention monitoring
+0769-MURVM,65.69999694824219,0,1,0.008182614507089314,0,Two year,Low Risk,Standard retention monitoring
+3374-LXDEV,89.4000015258789,0,0,0.49117913461110896,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5318-YKDPV,79.1500015258789,0,1,0.010117805415580642,0,Two year,Low Risk,Standard retention monitoring
+8190-ZTQFB,51.34999847412109,1,0,0.26125206638984155,0,One year,Low Risk,Standard retention monitoring
+4512-ZUIYL,70.0,0,0,0.908857728483252,1,Month-to-month,High Risk,Offer contract upgrade discount
+3090-QFUVD,20.299999237060547,0,0,0.3630165525474861,0,Month-to-month,Low Risk,Standard retention monitoring
+4806-KEXQR,79.9000015258789,0,0,0.8649008199425945,1,Month-to-month,High Risk,Offer contract upgrade discount
+5295-PCJOO,93.6500015258789,1,0,0.26798703167036725,0,One year,Low Risk,Standard retention monitoring
+9637-CDTKZ,114.0999984741211,0,1,0.031865525685901105,0,Two year,Low Risk,Standard retention monitoring
+2954-PIBKO,64.1500015258789,0,1,0.002196571577178308,0,Two year,Low Risk,Standard retention monitoring
+2212-LYASK,45.84999847412109,1,0,0.06625049544451848,0,One year,Low Risk,Standard retention monitoring
+9481-SFCQY,59.79999923706055,0,0,0.3306713074711161,0,Month-to-month,Low Risk,Standard retention monitoring
+2828-SLQPF,45.0,0,0,0.709547064376336,1,Month-to-month,High Risk,Offer contract upgrade discount
+4647-MUZON,95.9499969482422,0,0,0.6646518099347332,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8212-DJRCH,90.3499984741211,0,0,0.37854163807702007,0,Month-to-month,Low Risk,Standard retention monitoring
+0516-OOHAR,100.3499984741211,1,0,0.38757529832601867,0,One year,Low Risk,Standard retention monitoring
+4973-RLZVI,74.6500015258789,1,0,0.02759639331892374,0,One year,Low Risk,Standard retention monitoring
+8089-UZWLX,104.0500030517578,0,1,0.4559219741961172,0,Two year,Medium Risk,Offer targeted discount
+9732-KPKBW,53.95000076293945,0,0,0.36994167322055754,0,Month-to-month,Low Risk,Standard retention monitoring
+9715-WZCLW,97.1999969482422,0,1,0.07709083567341546,0,Two year,Low Risk,Standard retention monitoring
+0257-KXZGU,62.45000076293945,0,0,0.29318755863640467,0,Month-to-month,Low Risk,Standard retention monitoring
+0707-HOVVN,75.5,0,1,0.028938427202349126,0,Two year,Low Risk,Standard retention monitoring
+5501-TVMGM,55.25,0,0,0.7701265012887103,1,Month-to-month,High Risk,Offer contract upgrade discount
+3422-LYEPQ,71.0,0,0,0.7280979316570076,1,Month-to-month,High Risk,Offer contract upgrade discount
+2277-VWCNI,48.75,0,0,0.5429365999161422,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5461-QKNTN,94.3000030517578,0,0,0.3508995671283073,0,Month-to-month,Low Risk,Standard retention monitoring
+3967-KXAPS,92.3000030517578,0,1,0.00933163954615858,0,Two year,Low Risk,Standard retention monitoring
+6919-ELBGL,114.9499969482422,0,1,0.05040403118295701,0,Two year,Low Risk,Standard retention monitoring
+8361-LTMKD,74.4000015258789,0,0,0.6716950794804843,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1131-ALZWV,24.600000381469727,1,0,0.15940278641038938,0,One year,Low Risk,Standard retention monitoring
+5178-LMXOP,95.0999984741211,0,0,0.8166258342959378,1,Month-to-month,High Risk,Offer contract upgrade discount
+8992-CEUEN,18.850000381469727,0,0,0.48201872117952443,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3320-VEOYC,95.5999984741211,0,0,0.8317643417264272,1,Month-to-month,High Risk,Offer contract upgrade discount
+3672-YITQD,84.0999984741211,0,0,0.6555628036624498,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6080-TCMYC,81.19999694824219,0,0,0.47351748077532546,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6734-FQAJX,105.0500030517578,0,1,0.07068300510801699,0,Two year,Low Risk,Standard retention monitoring
+1063-DHQJF,92.1500015258789,0,1,0.036155101827935576,0,Two year,Low Risk,Standard retention monitoring
+3976-NLDEZ,20.600000381469727,0,0,0.40375992695400975,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1729-VLAZJ,40.25,1,0,0.04848940750428226,0,One year,Low Risk,Standard retention monitoring
+3400-ESFUW,57.54999923706055,0,1,0.006247988023933437,0,Two year,Low Risk,Standard retention monitoring
+5271-YNWVR,113.1500015258789,0,1,0.03594853463859315,0,Two year,Low Risk,Standard retention monitoring
+1587-FKLZB,99.5,0,0,0.357395214750455,0,Month-to-month,Low Risk,Standard retention monitoring
+0958-YHXGP,69.9000015258789,0,0,0.7657393862284719,1,Month-to-month,High Risk,Offer contract upgrade discount
+1494-EJZDW,20.149999618530277,0,1,0.029989900238674944,0,Two year,Low Risk,Standard retention monitoring
+1816-FLZDK,29.149999618530277,0,0,0.5727408691148093,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2075-PUEPR,19.350000381469727,0,1,0.0075520887577703345,0,Two year,Low Risk,Standard retention monitoring
+1833-TCXKK,107.75,0,0,0.7818741854189081,1,Month-to-month,High Risk,Offer contract upgrade discount
+1436-ZMJAN,67.80000305175781,0,0,0.43506203428947604,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0106-UGRDO,116.0,0,1,0.07594510614338444,0,Two year,Low Risk,Standard retention monitoring
+1069-XAIEM,85.05000305175781,0,0,0.8448638324032637,1,Month-to-month,High Risk,Offer contract upgrade discount
+4213-HKBJO,25.700000762939453,0,1,0.019678295158743364,0,Two year,Low Risk,Standard retention monitoring
+8345-MVDYC,81.6500015258789,0,1,0.06911991643903258,0,Two year,Low Risk,Standard retention monitoring
+2672-OJQZP,44.75,0,0,0.6422486380286025,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5136-RGMZO,71.05000305175781,0,0,0.29794694076739925,0,Month-to-month,Low Risk,Standard retention monitoring
+5774-QPLTF,20.350000381469727,1,0,0.0075673204480366735,0,One year,Low Risk,Standard retention monitoring
+5240-CAOYT,87.55000305175781,0,0,0.2839987959180907,0,Month-to-month,Low Risk,Standard retention monitoring
+3707-GNWHM,74.25,0,0,0.7870056524342752,1,Month-to-month,High Risk,Offer contract upgrade discount
+5159-YFPKQ,75.80000305175781,0,0,0.8173129651712604,1,Month-to-month,High Risk,Offer contract upgrade discount
+5052-PNLOS,105.3499984741211,0,0,0.8535359220621183,1,Month-to-month,High Risk,Offer contract upgrade discount
+6173-GOLSU,94.6500015258789,0,0,0.4501207517097184,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6661-HBGWL,104.75,0,0,0.7465174814466711,1,Month-to-month,High Risk,Offer contract upgrade discount
+8207-VVMYB,26.0,0,1,0.008634705996810842,0,Two year,Low Risk,Standard retention monitoring
+5324-KTGCG,20.850000381469727,1,0,0.007184320644930761,0,One year,Low Risk,Standard retention monitoring
+7354-OIJLX,75.8499984741211,0,0,0.8379187482793348,1,Month-to-month,High Risk,Offer contract upgrade discount
+9286-BHDQG,45.25,0,1,0.0009694996688577516,0,Two year,Low Risk,Standard retention monitoring
+3567-PQTSO,105.25,1,0,0.23666769830300552,0,One year,Low Risk,Standard retention monitoring
+3197-ARFOY,105.0,0,0,0.3019206460684773,0,Month-to-month,Low Risk,Standard retention monitoring
+5698-BQJOH,94.4000015258789,0,0,0.8647827462492489,1,Month-to-month,High Risk,Offer contract upgrade discount
+1090-ESELR,105.5,0,1,0.06356057970745797,0,Two year,Low Risk,Standard retention monitoring
+0056-EPFBG,39.400001525878906,0,1,0.012925624239073863,0,Two year,Low Risk,Standard retention monitoring
+4955-VCWBI,20.0,1,0,0.010589493595579192,0,One year,Low Risk,Standard retention monitoring
+4717-GHADL,79.5999984741211,0,1,0.038841999984363676,0,Two year,Low Risk,Standard retention monitoring
+0058-EVZWM,89.80000305175781,0,0,0.5955826828734045,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7218-HKQFK,94.1999969482422,0,0,0.721825412217548,1,Month-to-month,High Risk,Offer contract upgrade discount
+5057-RKGLH,20.350000381469727,0,1,0.03169595421036397,0,Two year,Low Risk,Standard retention monitoring
+2309-OSFEU,33.900001525878906,0,0,0.6710473703672557,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3429-IFLEM,77.3499984741211,0,1,0.0063622403768197385,0,Two year,Low Risk,Standard retention monitoring
+1550-LOAHA,84.1500015258789,0,0,0.713486470742177,1,Month-to-month,High Risk,Offer contract upgrade discount
+1400-MMYXY,105.9000015258789,0,0,0.6681175228760116,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7503-QQRVF,74.30000305175781,0,0,0.42513061745295955,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7504-UWHNB,69.75,0,0,0.7441202607873216,1,Month-to-month,High Risk,Offer contract upgrade discount
+9565-JSNFM,70.44999694824219,1,0,0.5648040775369408,1,One year,Medium Risk,Send customer engagement campaign
+4735-BJKOU,20.149999618530277,0,1,0.014363584060196877,0,Two year,Low Risk,Standard retention monitoring
+3580-GICBM,24.200000762939453,0,1,0.00227595590643579,0,Two year,Low Risk,Standard retention monitoring
+7632-YUTXB,20.049999237060547,1,0,0.027722853894388375,0,One year,Low Risk,Standard retention monitoring
+9412-ARGBX,95.5,0,1,0.04760235310722066,0,Two year,Low Risk,Standard retention monitoring
+9576-ANLXO,69.55000305175781,0,0,0.9059054439933801,1,Month-to-month,High Risk,Offer contract upgrade discount
+1110-KYLGQ,108.25,0,0,0.3060355683850608,0,Month-to-month,Low Risk,Standard retention monitoring
+8696-JKZNU,76.25,0,0,0.678745513412639,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8757-TFHHJ,49.79999923706055,0,0,0.4083305785568993,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2955-BJZHG,80.8499984741211,0,0,0.6732199669052897,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9048-JVYVF,69.3499984741211,0,0,0.6223820527347587,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0682-USIXD,86.05000305175781,0,0,0.6359789657567819,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3884-UEBXB,36.150001525878906,0,1,0.008094052842967823,0,Two year,Low Risk,Standard retention monitoring
+1776-SPBWV,20.100000381469727,1,0,0.045955108217145955,0,One year,Low Risk,Standard retention monitoring
+9050-QLROH,90.6999969482422,0,0,0.6897951376275381,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2925-VDZHY,88.69999694824219,0,1,0.004059121151831305,0,Two year,Low Risk,Standard retention monitoring
+9512-UIBFX,95.1500015258789,0,0,0.5661755758021171,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8676-TRMJS,75.0,0,0,0.7799409617628337,1,Month-to-month,High Risk,Offer contract upgrade discount
+3334-CTHOL,49.95000076293945,0,0,0.8320970487811453,1,Month-to-month,High Risk,Offer contract upgrade discount
+6331-LWDTQ,72.1500015258789,0,0,0.6573034059304331,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3847-BAERP,20.899999618530277,0,0,0.3104719983496456,0,Month-to-month,Low Risk,Standard retention monitoring
+4709-LKHYG,20.0,1,0,0.032642256538642916,0,One year,Low Risk,Standard retention monitoring
+8621-MNIHH,94.25,0,0,0.5090426558162523,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8884-ADFVN,101.9499969482422,0,0,0.7735517863161355,1,Month-to-month,High Risk,Offer contract upgrade discount
+2885-HIJDH,86.9000015258789,0,1,0.026348711338720344,0,Two year,Low Risk,Standard retention monitoring
+8570-KLJYJ,54.45000076293945,1,0,0.0710166377821381,0,One year,Low Risk,Standard retention monitoring
+9339-FIIJL,85.94999694824219,0,1,0.04463945819959811,0,Two year,Low Risk,Standard retention monitoring
+6223-DHJGV,20.649999618530277,1,0,0.02890499260964002,0,One year,Low Risk,Standard retention monitoring
+0959-WHOKV,99.0,1,0,0.21787548458370307,0,One year,Low Risk,Standard retention monitoring
+9610-WCESF,43.900001525878906,0,1,0.012324381293363228,0,Two year,Low Risk,Standard retention monitoring
+9279-CJEOJ,95.4000015258789,0,0,0.8916763961423128,1,Month-to-month,High Risk,Offer contract upgrade discount
+2985-FMWYF,93.5,0,0,0.8470680625368413,1,Month-to-month,High Risk,Offer contract upgrade discount
+3540-RZJYU,86.19999694824219,0,0,0.6906848019180857,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2522-WLNSF,64.19999694824219,1,0,0.12272325681937228,0,One year,Low Risk,Standard retention monitoring
+6861-XWTWQ,99.25,0,0,0.7428623525703344,1,Month-to-month,High Risk,Offer contract upgrade discount
+8735-NBLWT,20.399999618530277,0,0,0.20584475279525802,0,Month-to-month,Low Risk,Standard retention monitoring
+1744-JHKYS,24.700000762939453,0,0,0.11849736574661361,0,Month-to-month,Low Risk,Standard retention monitoring
+0841-NULXI,35.54999923706055,0,0,0.8390466026885228,1,Month-to-month,High Risk,Offer contract upgrade discount
+4016-BJKTZ,108.9000015258789,0,1,0.18544308749947538,0,Two year,Low Risk,Standard retention monitoring
+9298-WGMRW,115.5,0,1,0.11100175353348256,0,Two year,Low Risk,Standard retention monitoring
+7893-IXHRQ,20.549999237060547,0,0,0.5053248864134218,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8785-CJSHH,99.8000030517578,0,0,0.6132650325757316,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7654-YWJUF,84.25,1,0,0.14859071824391887,0,One year,Low Risk,Standard retention monitoring
+8909-BOLNL,21.200000762939453,1,0,0.17789257003364317,0,One year,Low Risk,Standard retention monitoring
+9919-FZDED,84.0999984741211,0,1,0.00864219106477914,0,Two year,Low Risk,Standard retention monitoring
+0322-CHQRU,45.34999847412109,0,0,0.7292876584694126,1,Month-to-month,High Risk,Offer contract upgrade discount
+3587-PMCOY,98.9000015258789,1,0,0.43065713476959006,0,One year,Medium Risk,Offer targeted discount
+0655-RBDUG,98.0500030517578,0,0,0.8939879510971421,1,Month-to-month,High Risk,Offer contract upgrade discount
+0983-TATYJ,51.45000076293945,1,0,0.07730052322355975,0,One year,Low Risk,Standard retention monitoring
+5650-YLIBA,81.1500015258789,0,0,0.6699812945191838,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5144-TVGLP,94.75,0,0,0.7765042030660303,1,Month-to-month,High Risk,Offer contract upgrade discount
+3569-EDBPQ,84.3499984741211,0,0,0.4295295507417969,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4945-RVMTE,59.54999923706055,0,0,0.6211592964175527,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3511-BFTJW,38.5,0,1,0.0014500724430995442,0,Two year,Low Risk,Standard retention monitoring
+5537-UXXVS,19.25,0,0,0.31277381892996187,0,Month-to-month,Low Risk,Standard retention monitoring
+8782-NUUOL,79.0,1,0,0.03382542696461794,0,One year,Low Risk,Standard retention monitoring
+2865-TCHJW,75.30000305175781,0,0,0.6277277342373261,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9931-KGHOA,55.0,0,0,0.24475543007516648,0,Month-to-month,Low Risk,Standard retention monitoring
+3071-MVJCD,82.30000305175781,0,1,0.009222296803850219,0,Two year,Low Risk,Standard retention monitoring
+7279-BUYWN,113.1999969482422,0,0,0.5311031780657502,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3756-VNWDH,100.75,1,0,0.2649754953963029,0,One year,Low Risk,Standard retention monitoring
+1395-OFUWC,29.299999237060547,0,0,0.07133768704275893,0,Month-to-month,Low Risk,Standard retention monitoring
+4223-BKEOR,64.8499984741211,1,0,0.07176508071614873,0,One year,Low Risk,Standard retention monitoring
+0040-HALCW,20.399999618530277,0,1,0.0026434516812505445,0,Two year,Low Risk,Standard retention monitoring
+7124-UGSUR,104.4000015258789,1,0,0.17251610943030124,0,One year,Low Risk,Standard retention monitoring
+7395-XWZOY,55.0,0,0,0.12118244921960855,0,Month-to-month,Low Risk,Standard retention monitoring
+5440-VHLUL,105.1999969482422,1,0,0.4389146042462759,0,One year,Medium Risk,Offer targeted discount
+4706-DGAHW,45.20000076293945,0,0,0.6879240661707989,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8166-ORCHU,93.5500030517578,1,0,0.09131153855594791,0,One year,Low Risk,Standard retention monitoring
+3978-YNKDD,20.850000381469727,0,1,0.023402634128819415,0,Two year,Low Risk,Standard retention monitoring
+7198-GLXTC,79.0,0,0,0.8511098888870665,1,Month-to-month,High Risk,Offer contract upgrade discount
+6366-XIVKZ,63.150001525878906,0,0,0.16321184946057002,0,Month-to-month,Low Risk,Standard retention monitoring
+5133-POWUA,45.79999923706055,0,0,0.6596921988897568,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8400-WZICQ,55.70000076293945,0,0,0.049198232348716744,0,Month-to-month,Low Risk,Standard retention monitoring
+5382-SOYZL,95.0999984741211,0,0,0.8537502039731776,1,Month-to-month,High Risk,Offer contract upgrade discount
+1989-PRJHP,75.5,0,0,0.6332622333820613,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4154-AQUGT,89.05000305175781,0,0,0.6179820504882292,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0980-FEXWF,50.34999847412109,1,0,0.07559391986931216,0,One year,Low Risk,Standard retention monitoring
+5845-BZZIB,20.100000381469727,0,1,0.00794798931153284,0,Two year,Low Risk,Standard retention monitoring
+4840-ORQXB,104.75,0,0,0.5953268624700312,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0295-PPHDO,95.4499969482422,0,0,0.8854417635707108,1,Month-to-month,High Risk,Offer contract upgrade discount
+8775-ERLNB,74.30000305175781,0,0,0.7635499867783875,1,Month-to-month,High Risk,Offer contract upgrade discount
+0376-YMCJC,90.5999984741211,0,0,0.6814791803533374,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7410-YTJIK,75.44999694824219,0,0,0.7641353518779518,1,Month-to-month,High Risk,Offer contract upgrade discount
+9927-DSWDF,104.5999984741211,0,0,0.35001364747645264,0,Month-to-month,Low Risk,Standard retention monitoring
+6681-ZSEXG,59.5,0,1,0.014183383985523698,0,Two year,Low Risk,Standard retention monitoring
+5702-KVQRD,82.55000305175781,0,1,0.019754702256919353,0,Two year,Low Risk,Standard retention monitoring
+8711-LOBKY,19.850000381469727,0,1,0.0023068219215996136,0,Two year,Low Risk,Standard retention monitoring
+9692-TUSXH,96.0500030517578,0,0,0.7361878861198924,1,Month-to-month,High Risk,Offer contract upgrade discount
+4012-YCFAI,61.34999847412109,0,1,0.005276147384012418,0,Two year,Low Risk,Standard retention monitoring
+8455-HIRAQ,44.45000076293945,0,0,0.573851265900603,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7853-WNZSY,19.75,0,0,0.36048021879931713,0,Month-to-month,Low Risk,Standard retention monitoring
+0390-DCFDQ,70.44999694824219,0,0,0.6983948222244567,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6421-SZVEM,82.8499984741211,1,0,0.29115685442483136,0,One year,Low Risk,Standard retention monitoring
+3094-JOJAI,74.1500015258789,0,0,0.7084861573137028,1,Month-to-month,High Risk,Offer contract upgrade discount
+4873-ILOLJ,90.3499984741211,0,0,0.8445515192908437,1,Month-to-month,High Risk,Offer contract upgrade discount
+8181-YHCMF,60.29999923706055,0,1,0.005949065480054878,0,Two year,Low Risk,Standard retention monitoring
+3324-OIRTO,104.6500015258789,1,0,0.15232884670387692,0,One year,Low Risk,Standard retention monitoring
+9135-HSWOC,19.700000762939453,0,1,0.004755708222908135,0,Two year,Low Risk,Standard retention monitoring
+2272-WUSPA,110.75,0,1,0.0963719596292152,0,Two year,Low Risk,Standard retention monitoring
+4627-MIHJH,110.25,0,1,0.05285644277066204,0,Two year,Low Risk,Standard retention monitoring
+3896-RCYYE,53.400001525878906,0,0,0.09445358620684871,0,Month-to-month,Low Risk,Standard retention monitoring
+6729-GDNGC,80.69999694824219,0,0,0.8583040174466365,1,Month-to-month,High Risk,Offer contract upgrade discount
+9945-PSVIP,18.700000762939453,0,1,0.01214840848830745,0,Two year,Low Risk,Standard retention monitoring
+4137-JOPHL,89.69999694824219,0,1,0.23075892505174556,0,Two year,Low Risk,Standard retention monitoring
+2720-FVBQP,48.95000076293945,0,0,0.3478082938350638,0,Month-to-month,Low Risk,Standard retention monitoring
+7854-EKTJL,19.600000381469727,0,0,0.35435233185069254,0,Month-to-month,Low Risk,Standard retention monitoring
+1133-KXCGE,20.100000381469727,1,0,0.08777857236084335,0,One year,Low Risk,Standard retention monitoring
+6048-QBXKL,56.54999923706055,0,0,0.4362883769903686,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6338-AVWCY,40.150001525878906,0,0,0.685494826659045,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0013-MHZWF,69.4000015258789,0,0,0.3137826255139698,0,Month-to-month,Low Risk,Standard retention monitoring
+9804-ICWBG,69.9000015258789,0,0,0.852646706985667,1,Month-to-month,High Risk,Offer contract upgrade discount
+2368-GAKKQ,113.6500015258789,0,1,0.1249138128675052,0,Two year,Low Risk,Standard retention monitoring
+4829-AUOAX,96.0500030517578,0,0,0.8803343719483092,1,Month-to-month,High Risk,Offer contract upgrade discount
+7876-BEUTG,48.79999923706055,0,0,0.5041962951363853,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6349-JDHQP,19.850000381469727,0,1,0.006119770150231797,0,Two year,Low Risk,Standard retention monitoring
+3063-QFSZL,55.400001525878906,0,0,0.7715799853235021,1,Month-to-month,High Risk,Offer contract upgrade discount
+9142-XMYJH,19.350000381469727,0,0,0.1121356827640383,0,Month-to-month,Low Risk,Standard retention monitoring
+2609-IAICY,77.1500015258789,0,0,0.8676020272974091,1,Month-to-month,High Risk,Offer contract upgrade discount
+8626-PTQGE,60.04999923706055,0,1,0.024156177135801437,0,Two year,Low Risk,Standard retention monitoring
+0230-UBYPQ,36.09999847412109,1,0,0.022750386914265286,0,One year,Low Risk,Standard retention monitoring
+6814-ZPWFQ,25.0,1,0,0.03797812065292727,0,One year,Low Risk,Standard retention monitoring
+5921-NGYRH,73.55000305175781,0,0,0.19544391504917846,0,Month-to-month,Low Risk,Standard retention monitoring
+7803-XOCCZ,84.05000305175781,0,0,0.19920240427090863,0,Month-to-month,Low Risk,Standard retention monitoring
+1459-QNFQT,59.5,0,1,0.012030156013114131,0,Two year,Low Risk,Standard retention monitoring
+3948-FVVRP,54.79999923706055,0,0,0.14493756935157454,0,Month-to-month,Low Risk,Standard retention monitoring
+0923-PNFUB,83.75,0,0,0.7652062818026567,1,Month-to-month,High Risk,Offer contract upgrade discount
+4654-ULTTN,74.80000305175781,0,1,0.00729822937218919,0,Two year,Low Risk,Standard retention monitoring
+5628-FCGYG,84.0999984741211,0,0,0.8117640298825775,1,Month-to-month,High Risk,Offer contract upgrade discount
+0506-LVNGN,75.55000305175781,0,0,0.6404132054514882,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4329-YPDDQ,108.1999969482422,0,0,0.5062384417538661,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9866-OCCKE,109.75,0,1,0.05162198042844079,0,Two year,Low Risk,Standard retention monitoring
+0794-YVSGE,20.299999237060547,0,1,0.003117751468260602,0,Two year,Low Risk,Standard retention monitoring
+4342-HENTK,70.6500015258789,0,0,0.823150082602474,1,Month-to-month,High Risk,Offer contract upgrade discount
+5934-TSSAU,75.30000305175781,0,0,0.3849514387020242,0,Month-to-month,Low Risk,Standard retention monitoring
+9986-BONCE,20.950000762939453,0,0,0.612833659829457,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1982-FEBTD,89.19999694824219,0,0,0.7731905977669469,1,Month-to-month,High Risk,Offer contract upgrade discount
+0725-CXOTM,89.6500015258789,1,0,0.08196610064836624,0,One year,Low Risk,Standard retention monitoring
+2843-CQMEG,49.70000076293945,0,0,0.312955013340502,0,Month-to-month,Low Risk,Standard retention monitoring
+5600-PDUJF,49.5,0,0,0.39498851963048426,0,Month-to-month,Low Risk,Standard retention monitoring
+4500-HKANN,59.70000076293945,0,1,0.019177144435961833,0,Two year,Low Risk,Standard retention monitoring
+1862-QRWPE,20.649999618530277,0,1,0.011904150336289599,0,Two year,Low Risk,Standard retention monitoring
+2155-AMQRX,54.900001525878906,0,0,0.23461067303065816,0,Month-to-month,Low Risk,Standard retention monitoring
+0823-HSCDJ,49.150001525878906,0,0,0.26328944944112764,0,Month-to-month,Low Risk,Standard retention monitoring
+4090-KPJIP,74.94999694824219,0,0,0.8453696839322471,1,Month-to-month,High Risk,Offer contract upgrade discount
+2737-YNGYW,80.55000305175781,0,0,0.8742867321167297,1,Month-to-month,High Risk,Offer contract upgrade discount
+5619-XZZKR,19.950000762939453,1,0,0.16086096454848944,0,One year,Low Risk,Standard retention monitoring
+6047-YHPVI,69.69999694824219,0,0,0.8336777320574884,1,Month-to-month,High Risk,Offer contract upgrade discount
+8375-DKEBR,69.5999984741211,0,0,0.8184376176090349,1,Month-to-month,High Risk,Offer contract upgrade discount
+7729-XBTWX,19.75,0,1,0.0016356122281334724,0,Two year,Low Risk,Standard retention monitoring
+4983-CLMLV,102.6999969482422,0,0,0.30061060069773965,0,Month-to-month,Low Risk,Standard retention monitoring
+7997-EASSD,24.600000381469727,0,0,0.8047802989410562,1,Month-to-month,High Risk,Offer contract upgrade discount
+2758-RNWXS,89.19999694824219,1,0,0.2305929960498133,0,One year,Low Risk,Standard retention monitoring
+7055-HNEOJ,55.79999923706055,0,0,0.33295436870429296,0,Month-to-month,Low Risk,Standard retention monitoring
+7134-MJPDY,102.8499984741211,1,0,0.18015037971122042,0,One year,Low Risk,Standard retention monitoring
+4560-WQAQW,68.69999694824219,1,0,0.07664507186226038,0,One year,Low Risk,Standard retention monitoring
+8532-UEFWH,25.75,0,1,0.004051586637891989,0,Two year,Low Risk,Standard retention monitoring
+8541-QVFKM,73.5,0,0,0.8222743257399648,1,Month-to-month,High Risk,Offer contract upgrade discount
+7129-ACFOG,53.79999923706055,0,0,0.5038139471566528,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2495-INZWQ,44.54999923706055,0,0,0.8275194658434655,1,Month-to-month,High Risk,Offer contract upgrade discount
+0263-FJTQO,70.5,0,1,0.007701921608394087,0,Two year,Low Risk,Standard retention monitoring
+0181-RITDD,108.1500015258789,0,1,0.020468609688303704,0,Two year,Low Risk,Standard retention monitoring
+8241-JUIQO,19.450000762939453,1,0,0.026314062222095588,0,One year,Low Risk,Standard retention monitoring
+0913-XWSCN,85.5,0,0,0.6551750695734977,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2159-TURXX,20.049999237060547,0,0,0.3123596421486766,0,Month-to-month,Low Risk,Standard retention monitoring
+6461-PPAXN,54.95000076293945,1,0,0.048280657861419,0,One year,Low Risk,Standard retention monitoring
+1452-KIOVK,89.0999984741211,0,0,0.4481232956647839,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1139-WUOAH,53.34999847412109,0,1,0.024701728172406866,0,Two year,Low Risk,Standard retention monitoring
+3207-OYBWH,95.25,0,0,0.5846564232759097,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8347-GDTMP,19.450000762939453,0,1,0.0024482941770035695,0,Two year,Low Risk,Standard retention monitoring
+9909-DFRJA,95.8499984741211,1,0,0.33718171916793804,0,One year,Low Risk,Standard retention monitoring
+6383-ZTSIW,99.0999984741211,1,0,0.13234501352260944,0,One year,Low Risk,Standard retention monitoring
+5438-QMDDL,59.79999923706055,0,0,0.3419474489197887,0,Month-to-month,Low Risk,Standard retention monitoring
+8914-RBTSB,93.8000030517578,0,0,0.5618082126831107,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6164-HXUGH,19.850000381469727,0,0,0.17885095071248813,0,Month-to-month,Low Risk,Standard retention monitoring
+6900-RBKER,89.44999694824219,0,1,0.1603034033348693,0,Two year,Low Risk,Standard retention monitoring
+1492-QGCLU,85.69999694824219,0,0,0.09328903944944099,0,Month-to-month,Low Risk,Standard retention monitoring
+6664-FPDAC,111.9499969482422,1,0,0.2838304527070257,0,One year,Low Risk,Standard retention monitoring
+1088-AUUZZ,75.8499984741211,0,1,0.004977401497670094,0,Two year,Low Risk,Standard retention monitoring
+6651-AZVTJ,99.8000030517578,0,0,0.5750477327298109,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8219-VYBVI,25.0,0,1,0.009896837696170457,0,Two year,Low Risk,Standard retention monitoring
+0310-MVLET,99.1500015258789,0,0,0.4607827214607468,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7233-IOQNP,34.0,0,0,0.15034660361080013,0,Month-to-month,Low Risk,Standard retention monitoring
+7311-MQJCH,19.549999237060547,1,0,0.21377029295454494,0,One year,Low Risk,Standard retention monitoring
+9256-JTBNZ,20.299999237060547,0,0,0.5173865088508536,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8713-IGZSO,85.1500015258789,0,1,0.011673941911129847,0,Two year,Low Risk,Standard retention monitoring
+6821-BUXUX,96.6500015258789,0,0,0.6017608756823983,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+9114-DPSIA,81.0,0,1,0.002866197713866436,0,Two year,Low Risk,Standard retention monitoring
+4501-UYKBC,69.0999984741211,1,0,0.052604971360544706,0,One year,Low Risk,Standard retention monitoring
+2798-NYLMZ,108.5500030517578,0,1,0.04420720117380158,0,Two year,Low Risk,Standard retention monitoring
+6711-VTNRE,87.55000305175781,0,0,0.5341286058469246,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+5966-EMAZU,108.5,1,0,0.10505360195551493,0,One year,Low Risk,Standard retention monitoring
+3627-FHKBK,19.0,0,0,0.13155898048243828,0,Month-to-month,Low Risk,Standard retention monitoring
+7861-UVUFT,84.30000305175781,0,0,0.7259823529810007,1,Month-to-month,High Risk,Offer contract upgrade discount
+9824-QCJPK,20.0,1,0,0.02546513269071735,0,One year,Low Risk,Standard retention monitoring
+7816-VGHTO,40.54999923706055,0,1,0.035669569450105555,0,Two year,Low Risk,Standard retention monitoring
+3794-NFNCH,50.0,0,0,0.25610282535557355,0,Month-to-month,Low Risk,Standard retention monitoring
+3877-JRJIP,59.84999847412109,0,0,0.7539121751795188,1,Month-to-month,High Risk,Offer contract upgrade discount
+5228-EXCET,80.8499984741211,0,0,0.8438050573998762,1,Month-to-month,High Risk,Offer contract upgrade discount
+6248-BSHKG,20.399999618530277,1,0,0.0043483859865941655,0,One year,Low Risk,Standard retention monitoring
+8915-NNTRC,107.6999969482422,0,1,0.021751159611880743,0,Two year,Low Risk,Standard retention monitoring
+3470-OBUET,74.0,0,1,0.0028198152995063588,0,Two year,Low Risk,Standard retention monitoring
+3229-USWAR,79.94999694824219,1,0,0.15149098317212353,0,One year,Low Risk,Standard retention monitoring
+1927-QEWMY,20.5,0,1,0.0018106621733517128,0,Two year,Low Risk,Standard retention monitoring
+6374-AFWOX,65.6500015258789,0,1,0.006171807152834646,0,Two year,Low Risk,Standard retention monitoring
+7912-SYRQT,75.0999984741211,0,0,0.9011075557668661,1,Month-to-month,High Risk,Offer contract upgrade discount
+2070-FNEXE,76.44999694824219,0,0,0.7635641457262051,1,Month-to-month,High Risk,Offer contract upgrade discount
+5803-NQJZO,67.80000305175781,0,1,0.006881886784329762,0,Two year,Low Risk,Standard retention monitoring
+5651-YLPRD,86.0999984741211,0,0,0.48486343521149616,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1271-UODNO,53.84999847412109,0,1,0.034138851869453556,0,Two year,Low Risk,Standard retention monitoring
+5014-WUQMG,96.0999984741211,1,0,0.09395704107250133,0,One year,Low Risk,Standard retention monitoring
+5889-JTMUL,95.0500030517578,0,0,0.46517333744659567,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0788-DXBFY,19.549999237060547,1,0,0.007254253770240094,0,One year,Low Risk,Standard retention monitoring
+2669-QVCRG,81.30000305175781,0,0,0.3802470917265846,0,Month-to-month,Low Risk,Standard retention monitoring
+6630-UJZMY,83.25,0,0,0.7590430064546547,1,Month-to-month,High Risk,Offer contract upgrade discount
+5061-PBXFW,61.400001525878906,0,0,0.09540289559574631,0,Month-to-month,Low Risk,Standard retention monitoring
+2700-LUEVA,20.75,0,0,0.3687438164975159,0,Month-to-month,Low Risk,Standard retention monitoring
+3865-ZFZIB,19.649999618530277,0,1,0.04033046734452771,0,Two year,Low Risk,Standard retention monitoring
+0471-ARVMX,104.8499984741211,1,0,0.20321995408794818,0,One year,Low Risk,Standard retention monitoring
+8985-OOPOS,74.0999984741211,1,0,0.2001445571088639,0,One year,Low Risk,Standard retention monitoring
+0719-SYFRB,61.650001525878906,0,0,0.15130271306011264,0,Month-to-month,Low Risk,Standard retention monitoring
+0447-BEMNG,45.29999923706055,0,0,0.2531194481270526,0,Month-to-month,Low Risk,Standard retention monitoring
+5630-AHZIL,64.5,0,0,0.40736507711316516,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+2190-BCXEC,78.8499984741211,0,0,0.32085526029173705,0,Month-to-month,Low Risk,Standard retention monitoring
+1559-DTODC,25.149999618530277,0,0,0.7566285532898753,1,Month-to-month,High Risk,Offer contract upgrade discount
+3244-DCJWY,70.25,0,0,0.8550426793158092,1,Month-to-month,High Risk,Offer contract upgrade discount
+3967-VQOGC,24.899999618530277,0,1,0.0018322801538857062,0,Two year,Low Risk,Standard retention monitoring
+0265-PSUAE,100.6999969482422,0,0,0.6080990186076419,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1622-HSHSF,19.549999237060547,0,0,0.39454747834312154,0,Month-to-month,Low Risk,Standard retention monitoring
+9867-XOBQA,51.09999847412109,0,0,0.5360758919225396,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6773-LQTVT,35.650001525878906,0,0,0.11198059514545827,0,Month-to-month,Low Risk,Standard retention monitoring
+4332-MUOEZ,94.3000030517578,1,0,0.04997864556615374,0,One year,Low Risk,Standard retention monitoring
+0023-XUOPT,94.0999984741211,0,0,0.6156335798425677,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6543-CPZMK,29.950000762939453,0,0,0.4228354738187635,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6418-HNFED,83.25,0,1,0.0074696689489414875,0,Two year,Low Risk,Standard retention monitoring
+1036-GUDCL,79.05000305175781,0,0,0.02711081757242824,0,Month-to-month,Low Risk,Standard retention monitoring
+4818-QIUFN,79.1500015258789,0,0,0.5495385185446,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+0778-NELLA,34.70000076293945,0,0,0.6447497018644074,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+7495-OOKFY,80.6500015258789,0,0,0.49830185670947374,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4737-HOBAX,79.80000305175781,0,1,0.023571010512384447,0,Two year,Low Risk,Standard retention monitoring
+7919-ZODZZ,65.9000015258789,1,0,0.10368701078593609,0,One year,Low Risk,Standard retention monitoring
+2988-PLAHS,69.94999694824219,1,0,0.47269474393227867,0,One year,Medium Risk,Send customer engagement campaign
+9067-SQTNS,20.600000381469727,1,0,0.028570890869171212,0,One year,Low Risk,Standard retention monitoring
+6483-OATDN,51.29999923706055,0,0,0.2018967620824608,0,Month-to-month,Low Risk,Standard retention monitoring
+5469-CTCWN,106.0,1,0,0.15900084610021392,0,One year,Low Risk,Standard retention monitoring
+3524-WQDSG,99.3000030517578,0,0,0.7076273448826575,1,Month-to-month,High Risk,Offer contract upgrade discount
+6968-URWQU,56.34999847412109,1,0,0.11753705394512332,0,One year,Low Risk,Standard retention monitoring
+8601-QACRS,50.59999847412109,0,0,0.622937013471035,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+8690-UPCZI,69.05000305175781,1,0,0.0713748082484414,0,One year,Low Risk,Standard retention monitoring
+5331-RGMTT,99.0500030517578,0,0,0.47292718752233565,0,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+1357-BIJKI,98.25,1,0,0.34752336990346605,0,One year,Low Risk,Standard retention monitoring
+2088-IEBAU,88.1500015258789,0,1,0.017283497462645795,0,Two year,Low Risk,Standard retention monitoring
+0679-IDSTG,69.25,0,0,0.6583021283953321,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+6519-ZHPXP,108.3000030517578,0,1,0.04506681239394622,0,Two year,Low Risk,Standard retention monitoring
+2101-RANCD,73.0999984741211,0,0,0.585884747675337,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+4029-HPFVY,70.30000305175781,0,0,0.7889243836890033,1,Month-to-month,High Risk,Offer contract upgrade discount
+1015-OWJKI,19.049999237060547,0,0,0.383468714163621,0,Month-to-month,Low Risk,Standard retention monitoring
+8314-HTWVE,19.850000381469727,0,1,0.034046352743053544,0,Two year,Low Risk,Standard retention monitoring
+5357-TZHPP,84.4000015258789,0,0,0.7137779599345411,1,Month-to-month,High Risk,Offer contract upgrade discount
+8727-XDPUD,35.79999923706055,0,1,0.08567670540709688,0,Two year,Low Risk,Standard retention monitoring
+9073-ZZIAY,86.0999984741211,0,1,0.007909410077083338,0,Two year,Low Risk,Standard retention monitoring
+5181-OABFK,61.29999923706055,0,1,0.004054332408868469,0,Two year,Low Risk,Standard retention monitoring
+3812-LRZIR,24.5,0,1,0.020107025039398554,0,Two year,Low Risk,Standard retention monitoring
+5204-HMGYF,87.19999694824219,1,0,0.01666106110341647,0,One year,Low Risk,Standard retention monitoring
+9950-MTGYX,20.299999237060547,0,1,0.009936131057005151,0,Two year,Low Risk,Standard retention monitoring
+3675-EQOZA,20.649999618530277,0,0,0.594250397011431,1,Month-to-month,Medium Risk,Offer loyalty benefits and contract upgrade
+3646-ITDGM,19.700000762939453,0,1,0.015588428582435386,0,Two year,Low Risk,Standard retention monitoring
+3913-FCUUW,70.44999694824219,0,1,0.005630374301465831,0,Two year,Low Risk,Standard retention monitoring
